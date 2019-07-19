@@ -1,0 +1,2910 @@
+\t (00:00:00) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Fri Jul 19 10:31:35 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=3040 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\i (00:00:03) fillin no 
+\e (00:00:03) Failed to open design since it is locked - C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500_2.brd
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 635
+\i (00:00:03) trapsize 624
+\i (00:00:03) trapsize 637
+\i (00:00:03) trapsize 649
+\i (00:00:03) trapsize 1046
+\i (00:00:03) generaledit 
+\i (00:00:08) open 
+\i (00:00:09) fillin "avrusb500_2.brd"
+\t (00:00:09) Opening existing design...
+\i (00:00:10) fillin yes 
+\i (00:00:10) trapsize 961
+\d (00:00:11) Database opened: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500_2.brd
+\i (00:00:11) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17.3625 25.6074
+\i (00:00:11) trapsize 1922
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 14.4412 21.1487
+\i (00:00:12) trapsize 3844
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:14) roam y -96 
+\i (00:00:14) roam y -96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:15) roam x 96 
+\i (00:00:15) roam x 96
+\i (00:00:15) roam y -96 
+\i (00:00:15) roam y -96
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 81.2272 10.0401
+\i (00:00:16) trapsize 1922
+\i (00:00:18) slide 
+\t (00:00:18) Pick element to slide.
+\i (00:00:19) pick grid 67.7354 4.6204
+\t (00:00:19) last pick:  67.9450  4.4450
+\t (00:00:19) last pick:  67.9450  4.5735
+\t (00:00:19) Waiting for the destination pick.
+\i (00:00:22) cancel 
+\i (00:00:22) generaledit 
+\i (00:00:27) pick grid 73.8855 9.8095
+\t (00:00:27) last pick:  73.6600  9.5250
+\i (00:00:28) slide 
+\t (00:00:28) Waiting for the destination pick.
+\i (00:00:31) pick grid 67.9276 10.5014
+\t (00:00:31) last pick:  67.9450  10.7950
+\t (00:00:31) No DRC errors detected.
+\i (00:00:31) generaledit 
+\i (00:00:32) pick grid 68.1583 5.8120
+\t (00:00:32) last pick:  67.9450  5.7150
+\i (00:00:33) pick grid 67.9661 6.1579
+\t (00:00:33) last pick:  67.9450  6.3500
+\i (00:00:34) slide 
+\t (00:00:34) Waiting for the destination pick.
+\i (00:00:38) pick grid 75.8843 4.7357
+\t (00:00:38) last pick:  76.2000  4.4450
+\t (00:00:38) No DRC errors detected.
+\i (00:00:38) generaledit 
+\i (00:00:42) pick grid 54.5512 22.9937
+\t (00:00:42) last pick:  54.6100  22.8600
+\i (00:00:42) slide 
+\t (00:00:42) Waiting for the destination pick.
+\i (00:00:46) pick grid 71.2717 21.6868
+\t (00:00:46) last pick:  71.1200  21.5900
+\t (00:00:46) No DRC errors detected.
+\i (00:00:46) generaledit 
+\i (00:00:56) pick grid 82.9953 8.7717
+\t (00:00:56) last pick:  83.1850  8.8900
+\i (00:00:57) slide 
+\t (00:00:57) Waiting for the destination pick.
+\i (00:00:59) pick grid 81.8037 9.8095
+\t (00:00:59) last pick:  81.9150  9.5250
+\t (00:00:59) No DRC errors detected.
+\i (00:00:59) generaledit 
+\i (00:01:00) pick grid 84.5328 10.9242
+\t (00:01:00) last pick:  84.4550  10.7950
+\i (00:01:00) slide 
+\t (00:01:00) Waiting for the destination pick.
+\i (00:01:06) pick grid 84.9556 12.9999
+\t (00:01:06) last pick:  85.0900  12.7000
+\t (00:01:06) No DRC errors detected.
+\i (00:01:06) generaledit 
+\i (00:01:09) roam x 96 
+\i (00:01:09) roam x 96
+\i (00:01:09) roam x 96 
+\i (00:01:09) roam x 96
+\i (00:01:09) roam x 96 
+\i (00:01:09) roam x 96
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 94.2190 21.1487
+\i (00:01:10) trapsize 3844
+\i (00:01:12) roam x -96 
+\i (00:01:12) roam x -96
+\i (00:01:12) roam x -96 
+\i (00:01:12) roam x -96
+\i (00:01:12) roam x -96 
+\i (00:01:12) roam x -96
+\i (00:01:16) status 
+\i (00:01:16) generaledit 
+\i (00:01:17) setwindow form.status
+\i (00:01:17) FORM status drc_update  
+\t (00:01:17) Running DRC, please wait...
+\t (00:01:18) Performing DRC...
+\t (00:01:18) Multithreaded DRC update (4 threads).
+\t (00:01:18) No DRC errors detected.
+\t (00:01:18) DRC done.
+\i (00:01:19) FORM status drc_update  
+\t (00:01:19) Running DRC, please wait...
+\t (00:01:19) Performing DRC...
+\t (00:01:19) Multithreaded DRC update (4 threads).
+\t (00:01:19) No DRC errors detected.
+\t (00:01:19) DRC done.
+\i (00:01:22) FORM status fromto_color 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) reports ucn 
+\i (00:01:22) reports "ucn"
+\i (00:01:22) generaledit 
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 41.7898 21.9175
+\i (00:01:23) trapsize 1922
+\i (00:01:33) setwindow text
+\i (00:01:33) close 
+\i (00:01:34) setwindow form.status
+\i (00:01:34) FORM status done  
+\i (00:01:35) setwindow pcb
+\i (00:01:35) roam y 96 
+\i (00:01:35) roam y 96
+\i (00:01:35) roam x -96 
+\i (00:01:35) roam x -96
+\i (00:01:36) roam x -96 
+\i (00:01:36) roam x -96
+\i (00:01:36) roam x -96 
+\i (00:01:36) roam x -96
+\i (00:01:36) roam x -96 
+\i (00:01:36) roam x -96
+\i (00:01:36) roam x -96 
+\i (00:01:36) roam x -96
+\i (00:01:36) roam x -96 
+\i (00:01:36) roam x -96
+\i (00:01:39) roam y -96 
+\i (00:01:39) roam y -96
+\i (00:01:39) roam y -96 
+\i (00:01:39) roam y -96
+\i (00:01:39) roam x 96 
+\i (00:01:39) roam x 96
+\i (00:01:41) roam y -96 
+\i (00:01:41) roam y -96
+\i (00:01:44) roam y 96 
+\i (00:01:44) roam y 96
+\i (00:01:44) roam y 96 
+\i (00:01:44) roam y 96
+\i (00:01:45) roam x 96 
+\i (00:01:45) roam x 96
+\i (00:01:45) roam x 96 
+\i (00:01:45) roam x 96
+\i (00:01:47) roam y -96 
+\i (00:01:47) roam y -96
+\i (00:01:48) roam x -96 
+\i (00:01:48) roam x -96
+\i (00:01:49) roam y -96 
+\i (00:01:49) roam y -96
+\i (00:01:49) roam y 96 
+\i (00:01:49) roam y 96
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in 26.4146 27.1065
+\i (00:01:50) trapsize 961
+\i (00:01:50) roam y -96 
+\i (00:01:50) roam y -96
+\i (00:01:53) pick grid 28.7209 27.7407
+\t (00:01:53) last pick:  28.5750  27.9400
+\i (00:01:55) pick grid 28.0867 28.0098
+\t (00:01:55) last pick:  27.9400  27.9400
+\i (00:01:57) pick grid tgl 27.5678 28.5864
+\t (00:01:57) last pick:  27.3050  28.5750
+\i (00:01:57) delete 
+\i (00:01:57) generaledit 
+\i (00:01:59) pick grid 28.0674 28.4711
+\t (00:01:59) last pick:  27.9400  28.5750
+\i (00:01:59) delete 
+\i (00:01:59) generaledit 
+\i (00:02:01) pick grid 28.6056 28.0290
+\t (00:02:01) last pick:  28.5750  27.9400
+\i (00:02:02) pick grid 28.7593 27.8561
+\t (00:02:02) last pick:  28.5750  27.9400
+\i (00:02:05) pick grid 26.8951 29.7972
+\t (00:02:05) last pick:  26.6700  29.8450
+\i (00:02:06) add connect 
+\t (00:02:07) Pick first element.
+\i (00:02:08) pick grid 28.0674 31.2578
+\t (00:02:08) last pick:  27.9400  31.1150
+\t (00:02:08) last pick:  28.0690  31.3122
+\t (00:02:08) Target Symbol Pin is defined on TOP.
+\t (00:02:08) last pick:  28.0690  31.3122
+\i (00:02:10) pick grid 26.9720 29.8164
+\t (00:02:10) last pick:  26.6700  29.8450
+\t (00:02:10) No DRC errors detected.
+\t (00:02:10) last pick:  26.6700  29.9132
+\i (00:02:14) pick grid 25.0885 28.5287
+\t (00:02:14) last pick:  25.4000  28.5750
+\t (00:02:14) No DRC errors detected.
+\t (00:02:14) last pick:  25.3659  28.6091
+\i (00:02:14) pick grid dbl 25.0885 28.3173
+\t (00:02:14) last pick:  25.4000  28.5750
+\t (00:02:14) VIA used for drill.
+\t (00:02:14) No DRC errors detected.
+\i (00:02:16) pick grid 25.3191 28.2404
+\t (00:02:16) last pick:  25.4000  27.9400
+\t (00:02:16) No DRC errors detected.
+\t (00:02:16) last pick:  25.3659  27.9741
+\i (00:02:16) mouse_pos 25.7996 27.9906
+\i (00:02:16) mouse_pos 26.3570 27.9714
+\i (00:02:18) pick grid 28.2596 27.9329
+\t (00:02:18) last pick:  28.5750  27.9400
+\t (00:02:18) No DRC errors detected.
+\i (00:02:18) mouse_pos 28.7209 27.9714
+\i (00:02:18) mouse_pos 29.5473 27.9137
+\i (00:02:19) mouse_pos 28.8554 28.2020
+\i (00:02:20) mouse_pos 28.2404 27.9521
+\i (00:02:21) pick grid 28.2981 28.0867
+\t (00:02:21) last pick:  28.5750  27.9400
+\w (00:02:21) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:02:21) mouse_pos 28.6632 27.8945
+\i (00:02:21) pick grid dbl 28.6632 27.8945
+\t (00:02:21) last pick:  28.5750  27.9400
+\t (00:02:21) VIA used for drill.
+\t (00:02:21) No DRC errors detected.
+\t (00:02:21) Pick first element.
+\i (00:02:24) cancel 
+\i (00:02:24) generaledit 
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 28.9515 28.0290
+\i (00:02:26) trapsize 480
+\i (00:02:29) pick grid 28.6344 27.8560
+\t (00:02:29) last pick:  28.5750  27.9400
+\i (00:02:30) slide 
+\t (00:02:30) Waiting for the destination pick.
+\i (00:02:31) pick grid 28.2404 27.9137
+\t (00:02:31) last pick:  27.9400  27.9400
+\t (00:02:31) No DRC errors detected.
+\i (00:02:31) generaledit 
+\i (00:02:32) zoom out 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom out 29.2879 29.8067
+\i (00:02:32) trapsize 961
+\i (00:02:38) add connect 
+\t (00:02:38) Pick first element.
+\i (00:02:41) pick grid 28.5576 27.9426
+\t (00:02:41) last pick:  28.5750  27.9400
+\t (00:02:41) last pick:  28.6890  27.9400
+\t (00:02:41) Target Horizontal Line Segment is defined on TOP.
+\t (00:02:41) last pick:  28.6890  27.9400
+\i (00:02:42) pick grid 28.4999 30.1720
+\t (00:02:42) last pick:  28.5750  30.4800
+\t (00:02:42) No DRC errors detected.
+\t (00:02:42) last pick:  28.6890  30.3660
+\i (00:02:42) pick grid 28.4807 30.2681
+\t (00:02:42) last pick:  28.5750  30.4800
+\w (00:02:42) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:02:44) mouse_pos 28.9035 31.3636
+\i (00:02:45) pick grid 28.9035 31.3636
+\t (00:02:45) last pick:  29.2100  31.1150
+\t (00:02:45) No DRC errors detected.
+\t (00:02:45) Pick first element.
+\i (00:02:47) done 
+\i (00:02:47) generaledit 
+\i (00:02:49) pick grid 25.0213 29.1534
+\t (00:02:49) last pick:  24.7650  29.2100
+\i (00:02:56) cmgr 
+\i (00:02:57) setwindow cmgr
+\i (00:02:57) cm fetch DRC_IS_UPTODATE ( System "System" ) System
+\i (00:02:57) cm fetch ONLINE_DRC ( System "System" ) System
+\i (00:02:57) setwindow pcb
+\i (00:02:57) generaledit 
+\i (00:03:05) setwindow cmgr
+\i (00:03:05) cm newView ( worksheet 78:Spacing 126:Region "127:All Layers" 128:Line )
+\i (00:03:05) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:03:05) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:03:05) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:05) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:03:10) cm newView ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:03:34) cm startUndoBlock 1
+\i (00:03:34) cm create "Spacing CSet" ( Design "avrusb500_2" ) "MIN"
+\i (00:03:34) cm scope Design "avrusb500_2"
+\i (00:03:34) cm copy "Spacing CSet" ( Design "avrusb500_2" ) ( "Spacing CSet" "MIN" ) ( "Spacing CSet" "DEFAULT" )
+\i (00:03:34) cm endUndoBlock
+\i (00:03:43) cm putValue ( "Spacing CSet" "MIN" ) LINE_TO_LINE_SPACING 0.1 7
+\i (00:03:43) cm endUndoBlock
+\i (00:04:12) cm select ( frame ( workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:04:14) cm startTransaction ( Design "avrusb500_2" ) ( Region "ATMEA8" ) TS_DEFER
+\i (00:04:14) cm add ( Region "ATMEA8" ) to ( "Spacing CSet" "MIN" )
+\i (00:04:14) cm commitTransaction ( Design "avrusb500_2" ) ( Region "ATMEA8" ) TS_DEFER
+\i (00:04:14) cm endUndoBlock
+\i (00:04:16) cm startTransaction ( Design "avrusb500_2" ) ( Region "FT232" ) TS_DEFER
+\i (00:04:16) cm add ( Region "FT232" ) to ( "Spacing CSet" "MIN" )
+\i (00:04:16) cm commitTransaction ( Design "avrusb500_2" ) ( Region "FT232" ) TS_DEFER
+\i (00:04:16) cm endUndoBlock
+\i (00:04:25) cm startTransaction ( Design "avrusb500_2" ) ( Design "avrusb500_2" ) TS_DEFER
+\i (00:04:25) cm add ( Design "avrusb500_2" ) to ( "Spacing CSet" "MIN" )
+\i (00:04:25) cm commitTransaction ( Design "avrusb500_2" ) ( Design "avrusb500_2" ) TS_DEFER
+\i (00:04:25) cm endUndoBlock
+\i (00:04:30) cm select ( frame ( workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:31) cm setColumnFilter ( column 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 167:All 0:Type ) *
+\i (00:04:31) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:04:31) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:04:31) cm select tab 167:All
+\i (00:04:46) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_TO_THRUPIN_SPACING 0.2540 7
+\i (00:04:46) cm endUndoBlock
+\i (00:04:49) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 167:All )
+\i (00:04:49) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 167:All )
+\i (00:04:49) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 167:All )
+\i (00:04:50) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:04:50) cm fetch MIN_LINE_WIDTH ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MIN_LINE_WIDTH ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch MAX_LINE_WIDTH ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MAX_LINE_WIDTH ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch MIN_NECK_WIDTH ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MIN_NECK_WIDTH ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch MAXIMUM_NECK_LENGTH ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MAXIMUM_NECK_LENGTH ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch DIFFP_PRIMARY_GAP ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch DIFFP_PRIMARY_GAP ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch DIFFP_NECK_GAP ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch DIFFP_COUPLED_PLUS ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch DIFFP_COUPLED_PLUS ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch DIFFP_COUPLED_MINUS ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch DIFFP_COUPLED_MINUS ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch DIFFP_NECK_GAP ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch VIA_LIST ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch VIA_LIST ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch MIN_BVIA_STAGGER ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MIN_BVIA_STAGGER ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch MAX_BVIA_STAGGER ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch MAX_BVIA_STAGGER ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch PAD_PAD_DIRECT_CONNECT ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch PAD_PAD_DIRECT_CONNECT ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch ALLOW_ON_ETCH_SUBCLASS ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch ALLOW_ON_ETCH_SUBCLASS ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:50) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Design
+\i (00:04:50) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:04:54) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_LINE_WIDTH 0.2540 7
+\i (00:04:54) cm endUndoBlock
+\i (00:04:56) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:04:56) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Net
+\i (00:04:56) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) XNet
+\i (00:04:56) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Diff Pair"
+\i (00:04:56) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Net Class"
+\i (00:04:56) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Bus
+\i (00:05:00) cm newView ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:00) cm fetch MIN_LINE_WIDTH ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch MAX_LINE_WIDTH ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch MIN_NECK_WIDTH ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch MAXIMUM_NECK_LENGTH ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch VIA_LIST ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch MIN_BVIA_STAGGER ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch MAX_BVIA_STAGGER ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch PAD_PAD_DIRECT_CONNECT ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch ALLOW_ON_ETCH_SUBCLASS ( Design "avrusb500_2" ) Region
+\i (00:05:00) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Region
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:05) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:50) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:50) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:50) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:52) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:05:54) cm select ( frame ( workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:05:57) cm select ( frame ( workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:06:07) cm exit
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 23.9450 23.1571
+\i (00:06:10) trapsize 1922
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 23.7528 23.0802
+\i (00:06:10) trapsize 3844
+\i (00:06:15) roam x 96 
+\i (00:06:15) roam x 96
+\i (00:06:15) roam x 96 
+\i (00:06:15) roam x 96
+\i (00:06:15) roam x -96 
+\i (00:06:15) roam x -96
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in 50.2462 28.6152
+\i (00:06:16) trapsize 1922
+\i (00:06:17) zoom out 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom out 49.4390 20.0051
+\i (00:06:17) trapsize 3844
+\i (00:06:18) roam y 96 
+\i (00:06:18) roam y 96
+\i (00:06:19) roam y 96 
+\i (00:06:19) roam y 96
+\i (00:06:24) shape add rect 
+\i (00:06:33) setwindow form.mini
+\i (00:06:33) FORM mini dyns_netname_list  
+\i (00:06:38) fillin "+5V"
+\t (00:06:38) Assigning selected shape to net: +5V
+\i (00:06:46) FORM mini dyns_fill_type Static solid 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) pick grid -2.0679 41.7898
+\t (00:06:50) last pick:  -1.9050  41.9100
+\i (00:06:50) pick grid 110.8628 -1.4144
+\t (00:06:50) last pick:  111.1250  -1.2700
+\i (00:06:54) undo 
+\i (00:06:54) trapsize 3844
+\i (00:06:54) generaledit 
+\i (00:06:58) pick grid 99.7158 11.9620
+\t (00:06:58) last pick:  99.6950  12.0650
+\i (00:07:00) pick grid 105.9427 25.7228
+\t (00:07:00) last pick:  106.0450  26.0350
+\i (00:07:09) shape add rect 
+\i (00:07:14) setwindow form.mini
+\i (00:07:14) FORM mini dyns_netname_list  
+\i (00:07:17) fillin "+5V"
+\t (00:07:17) Assigning selected shape to net: +5V
+\i (00:07:19) setwindow pcb
+\i (00:07:19) pick grid 106.2502 26.2609
+\t (00:07:19) last pick:  106.0450  26.0350
+\i (00:07:21) pick grid 99.3314 12.0389
+\t (00:07:21) last pick:  99.0600  12.0650
+\i (00:07:25) undo 
+\i (00:07:25) trapsize 3844
+\i (00:07:25) generaledit 
+\i (00:07:29) shape add rect 
+\i (00:07:36) setwindow form.mini
+\i (00:07:36) FORM mini dyns_fill_type Dynamic copper 
+\i (00:07:38) FORM mini dyns_netname_list  
+\t (00:07:46) No valid name selected.
+\i (00:07:49) fillin "Gnd"
+\t (00:07:49) Assigning selected shape to net: GND
+\i (00:07:51) setwindow pcb
+\i (00:07:51) pick grid -0.6842 40.7136
+\t (00:07:51) last pick:  -0.6350  40.6400
+\i (00:07:54) pick grid 110.9396 -2.8751
+\t (00:07:54) last pick:  111.1250  -3.1750
+\i (00:07:56) redraw 
+\i (00:08:02) setwindow form.mini
+\i (00:08:02) FORM mini subclass BOTTOM 
+\i (00:08:06) FORM mini dyns_defer_fill YES 
+\i (00:08:10) FORM mini dyns_defer_fill NO 
+\i (00:08:11) FORM mini dyns_defer_fill YES 
+\i (00:08:12) FORM mini dyns_defer_fill NO 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) undo 
+\i (00:08:15) trapsize 3844
+\i (00:08:15) generaledit 
+\i (00:08:21) shape add rect 
+\i (00:08:28) setwindow form.mini
+\i (00:08:28) FORM mini dyns_netname_list  
+\i (00:08:33) fillin "Gnd"
+\t (00:08:33) Assigning selected shape to net: GND
+\i (00:08:35) setwindow pcb
+\i (00:08:35) pick grid -0.7611 40.7136
+\t (00:08:35) last pick:  -0.6350  40.6400
+\i (00:08:36) zoom out 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 96.8714 -4.2588
+\i (00:08:36) trapsize 7688
+\i (00:08:38) pick grid 110.8244 -1.9526
+\t (00:08:38) last pick:  111.1250  -1.9050
+\i (00:08:42) zoom out 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom out -10.4858 74.4621
+\i (00:08:42) trapsize 15375
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 6.5807 -17.0971
+\i (00:08:42) trapsize 7688
+\i (00:08:43) zoom in 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom in -4.7969 -4.4894
+\i (00:08:43) trapsize 3844
+\i (00:08:52) undo 
+\i (00:08:52) trapsize 3844
+\i (00:08:52) generaledit 
+\i (00:08:56) zoom in 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom in 1.7759 19.8802
+\i (00:08:56) trapsize 1922
+\i (00:08:56) zoom in 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom in 1.7759 19.5727
+\i (00:08:56) trapsize 961
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 2.0065 19.5727
+\i (00:08:56) trapsize 1922
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 4.3512 18.1121
+\i (00:08:57) trapsize 3844
+\i (00:09:10) zoom in 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in 17.4970 17.4971
+\i (00:09:10) trapsize 1922
+\i (00:09:10) zoom in 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in 17.8430 17.4587
+\i (00:09:10) trapsize 961
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in 32.1611 17.7086
+\i (00:09:11) trapsize 480
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in 31.8824 17.6894
+\i (00:09:11) trapsize 240
+\i (00:09:12) zoom out 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom out 31.9017 17.7039
+\i (00:09:12) trapsize 480
+\i (00:09:12) zoom out 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom out 31.9689 17.6846
+\i (00:09:12) trapsize 961
+\i (00:09:12) zoom out 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom out 33.0259 17.3002
+\i (00:09:12) trapsize 1922
+\i (00:09:13) zoom out 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 34.6786 11.2271
+\i (00:09:13) trapsize 3844
+\i (00:09:14) roam x 96 
+\i (00:09:14) roam x 96
+\i (00:09:15) roam x 96 
+\i (00:09:15) roam x 96
+\i (00:09:15) roam x 96 
+\i (00:09:15) roam x 96
+\i (00:09:15) roam x 96 
+\i (00:09:15) roam x 96
+\i (00:09:16) roam x 96 
+\i (00:09:16) roam x 96
+\i (00:09:16) roam x 96 
+\i (00:09:16) roam x 96
+\i (00:09:16) roam y 96 
+\i (00:09:16) roam y 96
+\i (00:09:16) roam y 96 
+\i (00:09:16) roam y 96
+\i (00:09:17) roam y -96 
+\i (00:09:17) roam y -96
+\i (00:09:18) zoom in 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom in 97.9851 11.1928
+\i (00:09:18) trapsize 1922
+\i (00:09:18) zoom in 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom in 97.9467 11.2313
+\i (00:09:18) trapsize 961
+\i (00:09:20) roam x 96 
+\i (00:09:20) roam x 96
+\i (00:09:20) roam x 96 
+\i (00:09:20) roam x 96
+\i (00:09:20) roam x -96 
+\i (00:09:20) roam x -96
+\i (00:09:21) roam x -96 
+\i (00:09:21) roam x -96
+\i (00:09:21) roam x -96 
+\i (00:09:21) roam x -96
+\i (00:09:21) roam x 96 
+\i (00:09:21) roam x 96
+\i (00:09:21) roam x -96 
+\i (00:09:21) roam x -96
+\i (00:09:22) roam x -96 
+\i (00:09:22) roam x -96
+\i (00:09:22) roam x 96 
+\i (00:09:22) roam x 96
+\i (00:09:23) roam x 96 
+\i (00:09:23) roam x 96
+\i (00:09:24) zoom out 1 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) zoom out 98.0043 10.4241
+\i (00:09:24) trapsize 1922
+\i (00:09:24) zoom out 1 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) zoom out 100.0030 10.6932
+\i (00:09:24) trapsize 3844
+\i (00:09:25) zoom in 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in 69.0990 23.6082
+\i (00:09:25) trapsize 1922
+\i (00:09:28) pick grid 66.5621 35.1395
+\t (00:09:28) last pick:  66.6750  34.9250
+\i (00:09:29) done 
+\i (00:09:29) generaledit 
+\i (00:10:12) zoom out 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom out 62.5262 33.6789
+\i (00:10:12) trapsize 3844
+\i (00:10:20) zoom in 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom in 116.8001 16.1513
+\i (00:10:20) trapsize 1922
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 116.7616 16.1513
+\i (00:10:21) trapsize 961
+\i (00:10:21) zoom out 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom out 110.5155 14.6523
+\i (00:10:21) trapsize 1922
+\i (00:10:27) zoom in 1 
+\i (00:10:27) setwindow pcb
+\i (00:10:27) zoom in 105.1727 17.2660
+\i (00:10:27) trapsize 961
+\i (00:10:32) zoom out 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom out 108.1708 19.7453
+\i (00:10:32) trapsize 1922
+\i (00:10:37) shape add rect 
+\i (00:10:39) setwindow form.mini
+\i (00:10:39) FORM mini dyns_netname_list  
+\i (00:10:43) fillin "+5V"
+\t (00:10:43) Assigning selected shape to net: +5V
+\i (00:10:44) setwindow pcb
+\i (00:10:44) pick grid 100.0220 25.4340
+\t (00:10:44) last pick:  100.3300  25.4000
+\i (00:10:48) pick grid 105.9414 12.9802
+\t (00:10:48) last pick:  106.0450  12.7000
+\i (00:10:51) pick grid 99.9836 25.4340
+\t (00:10:51) last pick:  99.6950  25.4000
+\i (00:10:54) pick grid 105.9414 12.9802
+\t (00:10:54) last pick:  106.0450  12.7000
+\i (00:11:02) undo 
+\i (00:11:02) trapsize 1922
+\i (00:11:02) generaledit 
+\i (00:11:07) pick grid 103.0586 17.7081
+\t (00:11:07) last pick:  102.8700  17.7800
+\i (00:11:08) delete 
+\i (00:11:09) pick grid 103.2892 18.2078
+\t (00:11:09) last pick:  103.5050  18.4150
+\i (00:11:09) pick grid 103.0971 18.4384
+\t (00:11:09) last pick:  102.8700  18.4150
+\i (00:11:10) pick grid dbl 103.0971 18.4384
+\t (00:11:10) last pick:  102.8700  18.4150
+\i (00:11:10) pick grid 103.0971 18.4384
+\t (00:11:10) last pick:  102.8700  18.4150
+\i (00:11:10) pick grid dbl 103.0971 18.4384
+\t (00:11:10) last pick:  102.8700  18.4150
+\i (00:11:10) pick grid 103.0971 18.4384
+\t (00:11:10) last pick:  102.8700  18.4150
+\i (00:11:15) setwindow form.mini
+\i (00:11:15) FORM mini delete_net_shapes YES 
+\i (00:11:17) setwindow pcb
+\i (00:11:17) delete 
+\i (00:11:18) pick grid 102.2130 18.5921
+\t (00:11:18) last pick:  102.2350  18.4150
+\i (00:11:19) pick grid 102.6742 18.6306
+\t (00:11:19) last pick:  102.8700  18.4150
+\i (00:11:19) pick grid dbl 102.6742 18.6306
+\t (00:11:19) last pick:  102.8700  18.4150
+\i (00:11:20) delete 
+\i (00:11:21) pick grid 102.8664 18.5537
+\t (00:11:21) last pick:  102.8700  18.4150
+\i (00:11:25) undo 
+\i (00:11:25) trapsize 1922
+\i (00:11:25) generaledit 
+\i (00:11:26) undo 
+\i (00:11:26) trapsize 1922
+\i (00:11:26) generaledit 
+\i (00:11:26) undo 
+\i (00:11:26) trapsize 1922
+\i (00:11:26) generaledit 
+\i (00:11:31) shape add rect 
+\i (00:11:34) setwindow form.mini
+\i (00:11:34) FORM mini dyns_fill_type Static solid 
+\i (00:11:36) FORM mini dyns_netname_list  
+\i (00:11:38) fillin "+5V"
+\t (00:11:38) Assigning selected shape to net: +5V
+\i (00:11:40) setwindow pcb
+\i (00:11:40) pick grid 99.9067 25.4725
+\t (00:11:40) last pick:  99.6950  25.4000
+\i (00:11:43) pick grid 105.9030 12.9802
+\t (00:11:43) last pick:  106.0450  12.7000
+\i (00:11:45) zoom in 1 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) zoom in 107.1330 11.3274
+\i (00:11:45) trapsize 961
+\i (00:11:54) add connect 
+\t (00:11:54) Pick first element.
+\i (00:11:57) add connect 
+\t (00:11:57) Pick first element.
+\i (00:11:59) add connect 
+\t (00:11:59) Pick first element.
+\i (00:12:01) delete 
+\i (00:12:04) pick grid 99.8491 16.3244
+\t (00:12:04) last pick:  99.6950  16.5100
+\t (00:12:04) Horizontal Line Segment "Gnd, Etch/Top"
+\i (00:12:04) pick grid 99.8491 16.3244
+\t (00:12:04) last pick:  99.6950  16.5100
+\i (00:12:06) pick grid 101.1367 13.5376
+\t (00:12:06) last pick:  100.9650  13.3350
+\i (00:12:25) pick grid 107.9210 14.8829
+\t (00:12:25) last pick:  107.9500  14.6050
+\i (00:12:27) undo 
+\i (00:12:27) trapsize 961
+\i (00:12:27) generaledit 
+\i (00:12:27) undo 
+\i (00:12:27) trapsize 961
+\i (00:12:27) generaledit 
+\i (00:12:27) undo 
+\i (00:12:27) trapsize 961
+\i (00:12:27) generaledit 
+\i (00:12:28) undo 
+\i (00:12:28) trapsize 961
+\i (00:12:28) generaledit 
+\i (00:12:28) undo 
+\i (00:12:28) trapsize 1922
+\i (00:12:28) generaledit 
+\i (00:12:36) enved 
+\i (00:12:37) generaledit 
+\i (00:12:42) setwindow form.prfedit
+\i (00:12:42) FORM prfedit treelist  My_favorites 
+\i (00:12:46) FORM prfedit new_shape_fill_nt NO 
+\i (00:12:46) FORM prfedit no_etch_shape_display NO 
+\i (00:12:48) FORM prfedit apply  
+\i (00:12:49) FORM prfedit done  
+\i (00:12:53) setwindow pcb
+\i (00:12:53) shape add rect 
+\i (00:12:55) setwindow form.mini
+\i (00:12:55) FORM mini dyns_netname_list  
+\i (00:12:58) fillin "+5V"
+\t (00:12:58) Assigning selected shape to net: +5V
+\i (00:13:00) setwindow pcb
+\i (00:13:00) pick grid 99.8299 25.4725
+\t (00:13:00) last pick:  99.6950  25.4000
+\i (00:13:03) pick grid 105.7493 12.9802
+\t (00:13:03) last pick:  106.0450  12.7000
+\i (00:13:15) done 
+\i (00:13:15) generaledit 
+\i (00:13:17) zoom in 1 
+\i (00:13:17) setwindow pcb
+\i (00:13:17) zoom in 106.0183 15.8631
+\i (00:13:17) trapsize 961
+\i (00:13:21) zoom in 1 
+\i (00:13:21) setwindow pcb
+\i (00:13:21) zoom in 101.5596 13.5760
+\i (00:13:21) trapsize 480
+\i (00:13:28) status 
+\i (00:13:28) generaledit 
+\i (00:13:30) setwindow form.status
+\i (00:13:30) FORM status drc_update  
+\t (00:13:30) Running DRC, please wait...
+\t (00:13:30) Performing DRC...
+\t (00:13:30) Multithreaded DRC update (4 threads).
+\t (00:13:30) DRC done; 336 errors detected.
+\t (00:13:30) DRC done.
+\i (00:13:31) FORM status drc_update  
+\t (00:13:31) Running DRC, please wait...
+\t (00:13:31) Performing DRC...
+\t (00:13:31) Multithreaded DRC update (4 threads).
+\t (00:13:31) DRC done; 336 errors detected.
+\t (00:13:31) DRC done.
+\i (00:13:32) FORM status drc_update  
+\t (00:13:32) Running DRC, please wait...
+\t (00:13:32) Performing DRC...
+\t (00:13:32) Multithreaded DRC update (4 threads).
+\t (00:13:32) DRC done; 336 errors detected.
+\t (00:13:32) DRC done.
+\i (00:13:34) FORM status shorts_drc_color 1 
+\i (00:13:34) setwindow pcb
+\i (00:13:34) reports drc_shorts 
+\i (00:13:34) reports "drc_shorts"
+\i (00:13:34) generaledit 
+\i (00:13:42) setwindow text
+\i (00:13:42) close 
+\i (00:13:43) setwindow form.status
+\i (00:13:43) FORM status done  
+\i (00:13:45) setwindow pcb
+\i (00:13:45) roam y 96 
+\i (00:13:45) roam y 96
+\i (00:13:45) roam x -96 
+\i (00:13:45) roam x -96
+\i (00:13:46) zoom out 1 
+\i (00:13:46) setwindow pcb
+\i (00:13:46) zoom out 98.2633 13.1529
+\i (00:13:46) trapsize 961
+\i (00:13:46) roam x -96 
+\i (00:13:46) roam x -96
+\i (00:13:47) roam y 96 
+\i (00:13:47) roam y 96
+\i (00:13:47) roam x -96 
+\i (00:13:47) roam x -96
+\i (00:13:47) zoom out 1 
+\i (00:13:47) setwindow pcb
+\i (00:13:47) zoom out 94.2759 11.6156
+\i (00:13:47) trapsize 1922
+\i (00:13:47) roam x -96 
+\i (00:13:47) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam x -96 
+\i (00:13:48) roam x -96
+\i (00:13:48) roam y -96 
+\i (00:13:48) roam y -96
+\i (00:13:50) roam y -96 
+\i (00:13:50) roam y -96
+\i (00:13:50) roam y -96 
+\i (00:13:50) roam y -96
+\i (00:13:51) roam y 96 
+\i (00:13:51) roam y 96
+\i (00:13:51) roam x -96 
+\i (00:13:51) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:52) roam x -96 
+\i (00:13:52) roam x -96
+\i (00:13:53) roam y 96 
+\i (00:13:53) roam y 96
+\i (00:13:53) roam x -96 
+\i (00:13:53) roam x -96
+\i (00:13:53) roam y -96 
+\i (00:13:53) roam y -96
+\i (00:13:54) roam x 96 
+\i (00:13:54) roam x 96
+\i (00:13:54) roam x 96 
+\i (00:13:54) roam x 96
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:56) roam x 96 
+\i (00:13:56) roam x 96
+\i (00:13:56) zoom out 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom out 66.1202 23.1854
+\i (00:13:56) trapsize 3844
+\i (00:13:57) roam x 96 
+\i (00:13:57) roam x 96
+\i (00:13:57) roam y -96 
+\i (00:13:57) roam y -96
+\i (00:13:58) roam y 96 
+\i (00:13:58) roam y 96
+\i (00:14:00) roam y 96 
+\i (00:14:00) roam y 96
+\i (00:14:01) roam y -96 
+\i (00:14:01) roam y -96
+\i (00:14:02) roam x 96 
+\i (00:14:02) roam x 96
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in 73.5388 11.9615
+\i (00:14:03) trapsize 1922
+\i (00:14:04) zoom in 1 
+\i (00:14:04) setwindow pcb
+\i (00:14:04) zoom in 73.1928 11.9615
+\i (00:14:04) trapsize 961
+\i (00:14:18) pick grid 66.1011 14.7867
+\t (00:14:18) last pick:  66.0400  14.6050
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out 66.2548 14.7098
+\i (00:14:21) trapsize 1922
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out 66.2548 14.7099
+\i (00:14:22) trapsize 3844
+\i (00:14:23) zoom in 1 
+\i (00:14:23) setwindow pcb
+\i (00:14:23) zoom in 69.2529 16.7087
+\i (00:14:23) trapsize 1922
+\i (00:14:25) pick grid 64.4097 15.7093
+\t (00:14:25) last pick:  64.1350  15.8750
+\i (00:14:25) slide 
+\t (00:14:25) Waiting for the destination pick.
+\i (00:14:32) pick grid 82.6676 24.4731
+\t (00:14:32) last pick:  82.5500  24.7650
+\t (00:14:32) DRC errors detected.
+\i (00:14:33) generaledit 
+\i (00:14:36) pick grid 84.4742 25.1650
+\t (00:14:36) last pick:  84.4550  25.4000
+\i (00:14:37) slide 
+\t (00:14:37) Waiting for the destination pick.
+\i (00:14:39) pick grid 86.7036 26.3565
+\t (00:14:39) last pick:  86.9950  26.6700
+\t (00:14:39) DRC errors detected.
+\i (00:14:39) generaledit 
+\i (00:14:40) pick grid 83.8592 23.4737
+\t (00:14:40) last pick:  83.8200  23.4950
+\i (00:14:41) pick grid 83.0904 23.5121
+\t (00:14:41) last pick:  83.1850  23.4950
+\i (00:14:42) pick grid 83.7439 23.0893
+\t (00:14:42) last pick:  83.8200  22.8600
+\i (00:14:43) slide 
+\t (00:14:43) Waiting for the destination pick.
+\i (00:14:44) pick grid 84.5126 23.8196
+\t (00:14:44) last pick:  84.4550  24.1300
+\t (00:14:44) DRC errors detected.
+\i (00:14:44) generaledit 
+\i (00:14:48) pick grid 75.0570 19.5531
+\t (00:14:48) last pick:  74.9300  19.6850
+\i (00:14:48) slide 
+\t (00:14:48) Waiting for the destination pick.
+\i (00:14:52) pick grid 71.4054 14.5562
+\t (00:14:52) last pick:  71.1200  14.6050
+\t (00:14:52) DRC errors detected.
+\i (00:14:52) generaledit 
+\i (00:15:13) shape select 
+\i (00:15:14) roam x 96 
+\i (00:15:14) roam x 96
+\i (00:15:16) pick grid 99.1766 12.1346
+\t (00:15:16) last pick:  99.0600  12.0650
+\i (00:15:17) pick grid 106.5182 25.8568
+\t (00:15:17) last pick:  106.6800  26.0350
+\i (00:15:23) delete 
+\i (00:15:27) done 
+\i (00:15:27) generaledit 
+\i (00:15:29) roam y -96 
+\i (00:15:29) roam y -96
+\i (00:15:29) roam y -96 
+\i (00:15:29) roam y -96
+\i (00:15:29) roam y -96 
+\i (00:15:29) roam y -96
+\i (00:15:30) roam x -96 
+\i (00:15:30) roam x -96
+\i (00:15:30) roam x -96 
+\i (00:15:30) roam x -96
+\i (00:15:30) roam x -96 
+\i (00:15:30) roam x -96
+\i (00:15:30) roam x -96 
+\i (00:15:30) roam x -96
+\i (00:15:30) roam x -96 
+\i (00:15:30) roam x -96
+\i (00:15:31) roam x -96 
+\i (00:15:31) roam x -96
+\i (00:15:31) roam x -96 
+\i (00:15:31) roam x -96
+\i (00:15:31) roam y -96 
+\i (00:15:31) roam y -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:32) roam x -96 
+\i (00:15:32) roam x -96
+\i (00:15:33) roam y 96 
+\i (00:15:33) roam y 96
+\i (00:15:37) pick grid 9.9243 35.1394
+\t (00:15:37) last pick:  10.1600  34.9250
+\i (00:15:39) pick grid 8.5022 33.6403
+\t (00:15:39) last pick:  8.2550  33.6550
+\i (00:15:40) slide 
+\t (00:15:40) Waiting for the destination pick.
+\i (00:15:55) pick grid 2.8903 38.0222
+\t (00:15:55) last pick:  3.1750  38.1000
+\t (00:15:55) DRC errors detected.
+\i (00:15:55) generaledit 
+\i (00:15:57) pick grid 12.8456 31.1419
+\t (00:15:57) last pick:  12.7000  31.1150
+\i (00:15:57) slide 
+\t (00:15:57) Waiting for the destination pick.
+\i (00:16:02) pick grid 8.1947 35.8697
+\t (00:16:02) last pick:  8.2550  35.5600
+\t (00:16:02) DRC errors detected.
+\i (00:16:02) generaledit 
+\i (00:16:07) pick grid 17.2275 34.6013
+\t (00:16:07) last pick:  17.1450  34.2900
+\i (00:16:07) slide 
+\t (00:16:07) Waiting for the destination pick.
+\i (00:16:09) pick grid 17.4581 35.1779
+\t (00:16:09) last pick:  17.1450  34.9250
+\t (00:16:09) DRC errors detected.
+\i (00:16:09) generaledit 
+\i (00:16:12) roam x 96 
+\i (00:16:12) roam x 96
+\i (00:16:12) roam x 96 
+\i (00:16:12) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 96 
+\i (00:16:13) roam x 96
+\i (00:16:14) roam x 96 
+\i (00:16:14) roam x 96
+\i (00:16:14) roam x 96 
+\i (00:16:14) roam x 96
+\i (00:16:15) roam x 96 
+\i (00:16:15) roam x 96
+\i (00:16:15) roam x 96 
+\i (00:16:15) roam x 96
+\i (00:16:15) roam x 96 
+\i (00:16:15) roam x 96
+\i (00:16:15) roam y -96 
+\i (00:16:15) roam y -96
+\i (00:16:16) roam x 96 
+\i (00:16:16) roam x 96
+\i (00:16:17) roam x 96 
+\i (00:16:17) roam x 96
+\i (00:16:17) roam x 96 
+\i (00:16:17) roam x 96
+\i (00:16:18) pick grid 96.2554 32.7179
+\t (00:16:18) last pick:  96.5200  33.0200
+\i (00:16:19) slide 
+\t (00:16:19) Waiting for the destination pick.
+\i (00:16:22) pick grid 98.7154 33.1407
+\t (00:16:22) last pick:  98.4250  33.0200
+\t (00:16:22) DRC errors detected.
+\i (00:16:22) generaledit 
+\i (00:16:24) pick grid 93.7185 28.6435
+\t (00:16:24) last pick:  93.9800  28.5750
+\i (00:16:24) slide 
+\t (00:16:24) Waiting for the destination pick.
+\i (00:16:27) pick grid 95.5251 32.0645
+\t (00:16:27) last pick:  95.2500  31.7500
+\t (00:16:27) DRC errors detected.
+\i (00:16:27) generaledit 
+\i (00:16:31) pick grid 103.0204 26.1451
+\t (00:16:31) last pick:  102.8700  26.0350
+\i (00:16:31) slide 
+\t (00:16:31) Waiting for the destination pick.
+\i (00:16:33) pick grid 103.1742 26.2988
+\t (00:16:33) last pick:  102.8700  26.0350
+\t (00:16:33) DRC errors detected.
+\i (00:16:34) generaledit 
+\i (00:16:35) pick grid 102.5592 20.3410
+\t (00:16:35) last pick:  102.8700  20.3200
+\i (00:16:35) slide 
+\t (00:16:35) Waiting for the destination pick.
+\i (00:16:38) pick grid 104.4042 20.6485
+\t (00:16:38) last pick:  104.1400  20.9550
+\t (00:16:38) DRC errors detected.
+\i (00:16:38) generaledit 
+\i (00:16:39) pick grid 103.0973 21.5326
+\t (00:16:39) last pick:  102.8700  21.5900
+\i (00:16:39) slide 
+\t (00:16:39) Waiting for the destination pick.
+\i (00:16:43) pick grid 106.3645 22.0707
+\t (00:16:43) last pick:  106.6800  22.2250
+\t (00:16:43) DRC errors detected.
+\i (00:16:43) generaledit 
+\i (00:16:48) pick grid 95.7941 22.9163
+\t (00:16:48) last pick:  95.8850  22.8600
+\i (00:16:48) slide 
+\t (00:16:48) Waiting for the destination pick.
+\i (00:16:51) pick grid 96.1785 23.2238
+\t (00:16:51) last pick:  95.8850  23.4950
+\t (00:16:51) DRC errors detected.
+\i (00:16:51) generaledit 
+\i (00:16:54) pick grid 92.5654 33.6020
+\t (00:16:54) last pick:  92.7100  33.6550
+\i (00:16:54) slide 
+\t (00:16:55) Waiting for the destination pick.
+\i (00:16:57) pick grid 92.3732 27.9517
+\t (00:16:57) last pick:  92.0750  27.9400
+\t (00:16:57) DRC errors detected.
+\i (00:16:57) generaledit 
+\i (00:16:59) pick grid 89.0291 21.6863
+\t (00:16:59) last pick:  88.9000  21.5900
+\i (00:16:59) slide 
+\t (00:16:59) Waiting for the destination pick.
+\i (00:17:02) pick grid 91.4891 20.6485
+\t (00:17:02) last pick:  91.4400  20.9550
+\t (00:17:02) DRC errors detected.
+\i (00:17:02) generaledit 
+\i (00:17:03) pick grid 91.0663 20.6485
+\t (00:17:03) last pick:  90.8050  20.9550
+\i (00:17:03) slide 
+\t (00:17:03) Waiting for the destination pick.
+\i (00:17:06) pick grid 88.2219 23.1469
+\t (00:17:06) last pick:  88.2650  22.8600
+\t (00:17:06) DRC errors detected.
+\i (00:17:06) generaledit 
+\i (00:17:07) pick grid 86.3000 19.6107
+\t (00:17:07) last pick:  86.3600  19.6850
+\i (00:17:07) slide 
+\t (00:17:07) Waiting for the destination pick.
+\i (00:17:10) pick grid 89.0291 19.9951
+\t (00:17:10) last pick:  88.9000  19.6850
+\t (00:17:10) DRC errors detected.
+\i (00:17:10) generaledit 
+\i (00:17:11) pick grid 90.9894 19.9566
+\t (00:17:11) last pick:  90.8050  19.6850
+\i (00:17:11) slide 
+\t (00:17:11) Waiting for the destination pick.
+\i (00:17:13) pick grid 89.8363 23.1854
+\t (00:17:13) last pick:  89.5350  23.4950
+\t (00:17:13) DRC errors detected.
+\i (00:17:13) generaledit 
+\i (00:17:14) pick grid 88.0682 21.6479
+\t (00:17:14) last pick:  88.2650  21.5900
+\i (00:17:14) slide 
+\t (00:17:14) Waiting for the destination pick.
+\i (00:17:16) pick grid 88.5294 21.6094
+\t (00:17:16) last pick:  88.2650  21.5900
+\t (00:17:16) DRC errors detected.
+\i (00:17:17) generaledit 
+\i (00:17:17) pick grid 86.3769 18.8035
+\t (00:17:17) last pick:  86.3600  19.0500
+\i (00:17:18) slide 
+\t (00:17:18) Waiting for the destination pick.
+\i (00:17:19) pick grid 87.9528 18.8035
+\t (00:17:19) last pick:  88.2650  19.0500
+\t (00:17:19) DRC errors detected.
+\i (00:17:19) generaledit 
+\i (00:17:21) roam y 96 
+\i (00:17:21) roam y 96
+\i (00:17:21) roam y 96 
+\i (00:17:21) roam y 96
+\i (00:17:21) roam y 96 
+\i (00:17:21) roam y 96
+\i (00:17:22) roam y 96 
+\i (00:17:22) roam y 96
+\i (00:17:23) pick grid 98.1388 5.0812
+\t (00:17:23) last pick:  98.4250  5.0800
+\i (00:17:24) slide 
+\t (00:17:24) Waiting for the destination pick.
+\i (00:17:26) pick grid 96.1401 4.1203
+\t (00:17:26) last pick:  95.8850  3.8100
+\t (00:17:26) DRC errors detected.
+\i (00:17:26) generaledit 
+\i (00:17:28) pick grid 98.7923 5.1196
+\t (00:17:28) last pick:  99.0600  5.0800
+\i (00:17:28) slide 
+\t (00:17:28) Waiting for the destination pick.
+\i (00:17:30) pick grid 98.7538 5.1581
+\t (00:17:30) last pick:  99.0600  5.0800
+\t (00:17:30) DRC errors detected.
+\i (00:17:30) generaledit 
+\i (00:17:32) pick grid 99.0998 8.1562
+\t (00:17:32) last pick:  99.0600  8.2550
+\i (00:17:33) slide 
+\t (00:17:33) Waiting for the destination pick.
+\i (00:17:35) pick grid 98.1004 8.5790
+\t (00:17:35) last pick:  97.7900  8.8900
+\t (00:17:35) DRC errors detected.
+\i (00:17:35) generaledit 
+\i (00:17:37) roam x -96 
+\i (00:17:37) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam x -96 
+\i (00:17:38) roam x -96
+\i (00:17:38) roam y -96 
+\i (00:17:38) roam y -96
+\i (00:17:38) roam y -96 
+\i (00:17:38) roam y -96
+\i (00:17:39) roam x 96 
+\i (00:17:39) roam x 96
+\i (00:17:41) roam y -96 
+\i (00:17:41) roam y -96
+\i (00:17:42) roam x -96 
+\i (00:17:42) roam x -96
+\i (00:17:43) pick grid 47.1704 20.1103
+\t (00:17:43) last pick:  46.9900  20.3200
+\i (00:17:44) pick grid 47.6701 20.1487
+\t (00:17:44) last pick:  47.6250  20.3200
+\i (00:17:44) slide 
+\t (00:17:45) Waiting for the destination pick.
+\i (00:17:46) pick grid 46.8629 20.6100
+\t (00:17:46) last pick:  46.9900  20.3200
+\t (00:17:46) DRC errors detected.
+\i (00:17:46) generaledit 
+\i (00:17:49) pick grid 43.7879 27.1828
+\t (00:17:49) last pick:  43.8150  27.3050
+\i (00:17:49) slide 
+\t (00:17:49) Waiting for the destination pick.
+\i (00:17:54) pick grid 42.0966 26.9906
+\t (00:17:54) last pick:  41.9100  27.3050
+\t (00:17:54) DRC errors detected.
+\i (00:17:54) generaledit 
+\i (00:17:56) pick grid 51.1295 27.2597
+\t (00:17:56) last pick:  51.4350  27.3050
+\i (00:17:56) slide 
+\t (00:17:56) Waiting for the destination pick.
+\i (00:17:57) pick grid 51.4754 26.9522
+\t (00:17:57) last pick:  51.4350  26.6700
+\t (00:17:57) DRC errors detected.
+\i (00:17:57) generaledit 
+\i (00:17:58) pick grid 46.5554 25.4147
+\t (00:17:58) last pick:  46.3550  25.4000
+\i (00:17:59) slide 
+\t (00:17:59) Waiting for the destination pick.
+\i (00:18:01) pick grid 43.5188 26.0297
+\t (00:18:01) last pick:  43.8150  26.0350
+\t (00:18:01) DRC errors detected.
+\i (00:18:01) generaledit 
+\i (00:18:02) roam x -96 
+\i (00:18:02) roam x -96
+\i (00:18:02) roam x -96 
+\i (00:18:02) roam x -96
+\i (00:18:02) roam x -96 
+\i (00:18:02) roam x -96
+\i (00:18:02) roam x -96 
+\i (00:18:02) roam x -96
+\i (00:18:04) roam x -96 
+\i (00:18:04) roam x -96
+\i (00:18:04) roam x -96 
+\i (00:18:04) roam x -96
+\i (00:18:04) roam y -96 
+\i (00:18:04) roam y -96
+\i (00:18:05) roam y -96 
+\i (00:18:05) roam y -96
+\i (00:18:05) roam x -96 
+\i (00:18:05) roam x -96
+\i (00:18:05) roam x -96 
+\i (00:18:05) roam x -96
+\i (00:18:06) roam y 96 
+\i (00:18:06) roam y 96
+\i (00:18:07) pick grid 17.6503 23.1469
+\t (00:18:07) last pick:  17.7800  22.8600
+\i (00:18:08) slide 
+\t (00:18:08) Waiting for the destination pick.
+\i (00:18:12) pick grid 15.5363 29.3738
+\t (00:18:12) last pick:  15.2400  29.2100
+\t (00:18:12) DRC errors detected.
+\i (00:18:12) generaledit 
+\i (00:18:15) pick grid 10.0397 30.6807
+\t (00:18:15) last pick:  10.1600  30.4800
+\i (00:18:15) slide 
+\t (00:18:15) Waiting for the destination pick.
+\i (00:18:18) pick grid 6.0037 30.9882
+\t (00:18:18) last pick:  5.7150  31.1150
+\t (00:18:18) DRC errors detected.
+\i (00:18:18) generaledit 
+\i (00:18:21) roam y -96 
+\i (00:18:21) roam y -96
+\i (00:18:22) roam x 96 
+\i (00:18:22) roam x 96
+\i (00:18:22) roam x 96 
+\i (00:18:22) roam x 96
+\i (00:18:22) roam x 96 
+\i (00:18:22) roam x 96
+\i (00:18:22) roam y 96 
+\i (00:18:22) roam y 96
+\i (00:18:23) roam y 96 
+\i (00:18:23) roam y 96
+\i (00:18:23) roam x 96 
+\i (00:18:23) roam x 96
+\i (00:18:24) roam x 96 
+\i (00:18:24) roam x 96
+\i (00:18:24) roam x 96 
+\i (00:18:24) roam x 96
+\i (00:18:24) roam x 96 
+\i (00:18:24) roam x 96
+\i (00:18:24) roam x 96 
+\i (00:18:24) roam x 96
+\i (00:18:26) roam y 96 
+\i (00:18:26) roam y 96
+\i (00:18:27) roam y 96 
+\i (00:18:27) roam y 96
+\i (00:18:27) roam y -96 
+\i (00:18:27) roam y -96
+\i (00:18:28) roam y 96 
+\i (00:18:28) roam y 96
+\i (00:18:28) roam y 96 
+\i (00:18:28) roam y 96
+\i (00:18:38) pick grid 50.5914 10.0397
+\t (00:18:38) last pick:  50.8000  10.1600
+\i (00:18:40) slide 
+\t (00:18:40) Waiting for the destination pick.
+\i (00:18:42) pick grid 54.8964 9.6937
+\t (00:18:42) last pick:  54.6100  9.5250
+\t (00:18:42) DRC errors detected.
+\i (00:18:42) generaledit 
+\i (00:18:44) roam x -96 
+\i (00:18:44) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:45) roam x -96 
+\i (00:18:45) roam x -96
+\i (00:18:46) roam x -96 
+\i (00:18:46) roam x -96
+\i (00:18:47) roam y -96 
+\i (00:18:47) roam y -96
+\i (00:18:47) roam x 96 
+\i (00:18:47) roam x 96
+\i (00:18:48) roam x 96 
+\i (00:18:48) roam x 96
+\i (00:18:48) roam x 96 
+\i (00:18:48) roam x 96
+\i (00:18:48) roam x 96 
+\i (00:18:48) roam x 96
+\i (00:18:48) roam y -96 
+\i (00:18:48) roam y -96
+\i (00:18:48) roam x 96 
+\i (00:18:48) roam x 96
+\i (00:18:51) pick grid 35.7545 17.8040
+\t (00:18:51) last pick:  35.5600  17.7800
+\i (00:18:52) slide 
+\t (00:18:52) Waiting for the destination pick.
+\i (00:18:54) pick grid 35.2164 17.6118
+\t (00:18:54) last pick:  34.9250  17.7800
+\t (00:18:54) DRC errors detected.
+\i (00:18:54) generaledit 
+\i (00:18:55) roam x 96 
+\i (00:18:55) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:18:56) roam x 96 
+\i (00:18:56) roam x 96
+\i (00:19:01) roam x 96 
+\i (00:19:01) roam x 96
+\i (00:19:02) roam x 96 
+\i (00:19:02) roam x 96
+\i (00:19:02) roam x 96 
+\i (00:19:02) roam x 96
+\i (00:19:02) roam x 96 
+\i (00:19:02) roam x 96
+\i (00:19:02) roam x 96 
+\i (00:19:02) roam x 96
+\i (00:19:02) roam y -96 
+\i (00:19:02) roam y -96
+\i (00:19:03) roam y 96 
+\i (00:19:03) roam y 96
+\i (00:19:04) roam y 96 
+\i (00:19:04) roam y 96
+\i (00:19:05) roam x -96 
+\i (00:19:05) roam x -96
+\i (00:19:05) roam y -96 
+\i (00:19:05) roam y -96
+\i (00:19:05) roam x -96 
+\i (00:19:05) roam x -96
+\i (00:19:06) roam x -96 
+\i (00:19:06) roam x -96
+\i (00:19:06) roam x -96 
+\i (00:19:06) roam x -96
+\i (00:19:09) pick grid 84.1475 29.9119
+\t (00:19:09) last pick:  84.4550  29.8450
+\i (00:19:09) slide 
+\t (00:19:09) Waiting for the destination pick.
+\i (00:19:10) pick grid 84.8394 29.8350
+\t (00:19:10) last pick:  85.0900  29.8450
+\t (00:19:10) DRC errors detected.
+\i (00:19:10) generaledit 
+\i (00:19:11) pick grid 86.4538 31.0266
+\t (00:19:11) last pick:  86.3600  31.1150
+\i (00:19:11) slide 
+\t (00:19:11) Waiting for the destination pick.
+\i (00:19:15) pick grid 86.8381 33.9479
+\t (00:19:15) last pick:  86.9950  33.6550
+\t (00:19:15) DRC errors detected.
+\i (00:19:15) generaledit 
+\i (00:19:16) roam y -96 
+\i (00:19:16) roam y -96
+\i (00:19:17) roam y -96 
+\i (00:19:17) roam y -96
+\i (00:19:17) roam x -96 
+\i (00:19:17) roam x -96
+\i (00:19:18) zoom in 1 
+\i (00:19:18) setwindow pcb
+\i (00:19:18) zoom in 85.9157 28.9895
+\i (00:19:18) trapsize 961
+\i (00:19:18) zoom out 1 
+\i (00:19:18) setwindow pcb
+\i (00:19:18) zoom out 86.2617 28.7589
+\i (00:19:18) trapsize 1922
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:19) roam x -96 
+\i (00:19:19) roam x -96
+\i (00:19:20) pick grid 39.4060 29.0280
+\t (00:19:20) last pick:  39.3700  29.2100
+\i (00:19:21) slide 
+\t (00:19:21) Waiting for the destination pick.
+\i (00:19:24) pick grid 30.3347 34.5630
+\t (00:19:24) last pick:  30.4800  34.2900
+\t (00:19:24) DRC errors detected.
+\i (00:19:24) generaledit 
+\i (00:19:25) roam x -96 
+\i (00:19:25) roam x -96
+\i (00:19:26) roam x -96 
+\i (00:19:26) roam x -96
+\i (00:19:26) roam x -96 
+\i (00:19:26) roam x -96
+\i (00:19:26) roam x -96 
+\i (00:19:26) roam x -96
+\i (00:19:26) roam y 96 
+\i (00:19:26) roam y 96
+\i (00:19:27) roam x -96 
+\i (00:19:27) roam x -96
+\i (00:19:27) roam y 96 
+\i (00:19:27) roam y 96
+\i (00:19:28) roam y 96 
+\i (00:19:28) roam y 96
+\i (00:19:28) roam y 96 
+\i (00:19:28) roam y 96
+\i (00:19:28) roam y 96 
+\i (00:19:28) roam y 96
+\i (00:19:28) roam y 96 
+\i (00:19:28) roam y 96
+\i (00:19:28) roam y 96 
+\i (00:19:28) roam y 96
+\i (00:19:28) roam x 96 
+\i (00:19:28) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam x 96 
+\i (00:19:29) roam x 96
+\i (00:19:29) roam y -96 
+\i (00:19:29) roam y -96
+\i (00:19:30) roam y -96 
+\i (00:19:30) roam y -96
+\i (00:19:30) roam x 96 
+\i (00:19:30) roam x 96
+\i (00:19:30) roam x 96 
+\i (00:19:30) roam x 96
+\i (00:19:30) roam x 96 
+\i (00:19:30) roam x 96
+\i (00:19:31) roam x 96 
+\i (00:19:31) roam x 96
+\i (00:20:35) roam start
+\i (00:20:35) roam y -160
+\i (00:20:35) roam y -48
+\i (00:20:35) roam y -48
+\i (00:20:35) roam x -16
+\i (00:20:35) roam y -32
+\i (00:20:35) roam y -48
+\i (00:20:36) roam y -32
+\i (00:20:36) roam x -32
+\i (00:20:36) roam y 16
+\i (00:20:36) roam x -64
+\i (00:20:36) roam end
+\i (00:20:38) slide 
+\t (00:20:38) Pick element to slide.
+\i (00:20:40) pick grid 106.0954 32.9485
+\t (00:20:40) last pick:  106.0450  33.0200
+\t (00:20:40) last pick:  106.0449  33.0201
+\t (00:20:40) Waiting for the destination pick.
+\i (00:20:41) pick grid 105.7110 32.6410
+\t (00:20:41) last pick:  105.4100  32.3850
+\t (00:20:42) DRC errors detected.
+\t (00:20:42) Pick another element to slide.
+\i (00:20:43) prepopup 105.1345 31.3342
+\i (00:20:44) done 
+\i (00:20:44) generaledit 
+\i (00:20:44) zoom in 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom in 104.0198 31.6417
+\i (00:20:44) trapsize 961
+\i (00:20:44) zoom in 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom in 104.0198 31.6994
+\i (00:20:44) trapsize 480
+\i (00:20:45) zoom out 1 
+\i (00:20:45) setwindow pcb
+\i (00:20:45) zoom out 104.2505 31.8435
+\i (00:20:45) trapsize 961
+\i (00:20:45) zoom out 1 
+\i (00:20:45) setwindow pcb
+\i (00:20:45) zoom out 104.2504 31.8436
+\i (00:20:45) trapsize 1922
+\i (00:20:51) roam x -96 
+\i (00:20:51) roam x -96
+\i (00:20:52) roam x -96 
+\i (00:20:52) roam x -96
+\i (00:20:52) roam x -96 
+\i (00:20:52) roam x -96
+\i (00:20:56) setwindow form.find
+\i (00:20:56) FORM find nets YES 
+\i (00:20:58) FORM find clines YES 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) change 
+\i (00:21:09) roam y 96 
+\i (00:21:09) roam y 96
+\i (00:21:10) zoom out 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom out 61.8920 20.7254
+\i (00:21:10) trapsize 3844
+\i (00:21:10) zoom out 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom out 61.8151 20.7254
+\i (00:21:10) trapsize 7688
+\i (00:21:11) roam x -96 
+\i (00:21:11) roam x -96
+\i (00:21:11) zoom in 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom in 5.6578 10.8853
+\i (00:21:11) trapsize 3844
+\i (00:21:38) setwindow form.find
+\i (00:21:38) FORM find all_off  
+\i (00:21:40) FORM find clines YES 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) roam y -96 
+\i (00:21:43) roam y -96
+\i (00:22:06) setwindow form.mini
+\i (00:22:06) FORM mini apply_width YES 
+\i (00:22:14) FORM mini line_width 2.5400 
+\i (00:22:18) setwindow pcb
+\i (00:22:18) drag_start grid -1.1841 41.0205
+\i (00:22:18) drag_stop 0.8916 39.0986
+\i (00:22:19) drag_start grid -1.5684 41.7124
+\i (00:22:21) drag_stop 109.5934 -1.7991
+\t (00:22:22) Changed 121 items out of 121 items found.
+\i (00:22:28) setwindow form.mini
+\i (00:22:28) FORM mini line_width 0.2540 
+\i (00:22:30) setwindow pcb
+\i (00:22:30) drag_start grid -1.3378 41.8661
+\i (00:22:30) roam x 16
+\i (00:22:30) roam x 16
+\i (00:22:31) drag_stop 109.7472 -4.7204
+\t (00:22:32) Changed 121 items out of 121 items found.
+\i (00:22:35) done 
+\i (00:22:35) generaledit 
+\i (00:22:36) roam y -96 
+\i (00:22:36) roam y -96
+\i (00:22:37) roam y 96 
+\i (00:22:37) roam y 96
+\i (00:22:37) zoom in 1 
+\i (00:22:37) setwindow pcb
+\i (00:22:37) zoom in 92.5271 11.8847
+\i (00:22:37) trapsize 1922
+\i (00:22:38) roam x -96 
+\i (00:22:38) roam x -96
+\i (00:22:39) roam x -96 
+\i (00:22:39) roam x -96
+\i (00:22:39) roam x -96 
+\i (00:22:39) roam x -96
+\i (00:22:39) roam y 96 
+\i (00:22:39) roam y 96
+\i (00:22:40) roam x -96 
+\i (00:22:40) roam x -96
+\i (00:22:41) roam x -96 
+\i (00:22:41) roam x -96
+\i (00:22:42) roam x -96 
+\i (00:22:42) roam x -96
+\i (00:22:42) roam y -96 
+\i (00:22:42) roam y -96
+\i (00:22:42) roam y -96 
+\i (00:22:42) roam y -96
+\i (00:22:43) roam y -96 
+\i (00:22:43) roam y -96
+\i (00:22:43) roam y -96 
+\i (00:22:43) roam y -96
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in 45.0948 28.4128
+\i (00:22:44) trapsize 961
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in 44.7874 28.4129
+\i (00:22:44) trapsize 480
+\i (00:22:45) pick grid 44.7105 29.0279
+\t (00:22:45) last pick:  44.4500  29.2100
+\i (00:22:45) pick grid dbl 44.7105 29.0279
+\t (00:22:45) last pick:  44.4500  29.2100
+\i (00:23:02) cmgr 
+\i (00:23:03) setwindow cmgr
+\i (00:23:03) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:23:03) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:23:03) cm newView ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:23:03) cm newView ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 167:All )
+\i (00:23:04) cm newView ( worksheet 78:Spacing 126:Region "127:All Layers" 128:Line )
+\i (00:23:04) cm fetch DRC_IS_UPTODATE ( System "System" ) System
+\i (00:23:04) cm fetch ONLINE_DRC ( System "System" ) System
+\i (00:23:04) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) Design
+\i (00:23:04) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) "Spacing CSet"
+\i (00:23:04) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500_2" ) Region
+\i (00:23:04) setwindow pcb
+\i (00:23:04) generaledit 
+\i (00:23:04) setwindow cmgr
+\i (00:23:04) cm fetch VOLTAGE ( Design "avrusb500_2" ) Net
+\i (00:23:04) cm fetch VOLTAGE ( Design "avrusb500_2" ) Bus
+\i (00:23:04) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:23:09) cm select ( worksheet 78:Spacing 126:Region "127:All Layers" 128:Line )
+\i (00:23:09) cm select ( worksheet 78:Spacing 126:Region "127:All Layers" 128:Line )
+\i (00:23:09) cm select ( worksheet 78:Spacing 126:Region "127:All Layers" 128:Line )
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Design
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Net
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) XNet
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Diff Pair"
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) "Net Class"
+\i (00:23:10) cm fetch TS_ALLOWED ( Design "avrusb500_2" ) Bus
+\i (00:23:11) cm select ( frame ( workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:23:11) cm fetch DIFFP_PRIMARY_GAP ( Design "avrusb500_2" ) Design
+\i (00:23:11) cm fetch DIFFP_PRIMARY_GAP ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:23:11) cm fetch DIFFP_NECK_GAP ( Design "avrusb500_2" ) Design
+\i (00:23:11) cm fetch DIFFP_COUPLED_PLUS ( Design "avrusb500_2" ) Design
+\i (00:23:11) cm fetch DIFFP_COUPLED_PLUS ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:23:11) cm fetch DIFFP_COUPLED_MINUS ( Design "avrusb500_2" ) Design
+\i (00:23:11) cm fetch DIFFP_COUPLED_MINUS ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:23:11) cm fetch DIFFP_NECK_GAP ( Design "avrusb500_2" ) "Physical CSet"
+\i (00:23:11) cm select ( frame ( workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:23:44) cm startUndoBlock 1
+\i (00:23:44) cm create "Physical CSet" ( Design "avrusb500_2" ) "POWERRULE"
+\i (00:23:44) cm scope Design "avrusb500_2"
+\i (00:23:44) cm copy "Physical CSet" ( Design "avrusb500_2" ) ( "Physical CSet" "POWERRULE" ) ( "Physical CSet" "DEFAULT" )
+\i (00:23:44) cm endUndoBlock
+\i (00:23:55) cm putValue ( "Physical CSet" "POWERRULE" ) MIN_LINE_WIDTH 0.381 7
+\i (00:23:55) cm endUndoBlock
+\i (00:23:59) cm select ( frame ( workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:24:19) cm startUndoBlock 1
+\i (00:24:19) cm create "Net Class" ( Design "avrusb500_2" ) "POWERNETS"
+\i (00:24:19) cm startUndoBlock 0
+\i (00:24:19) cm clearFlags "Net Class" ( Design "avrusb500_2" ) "POWERNETS" 539648
+\i (00:24:19) cm startUndoBlock 0
+\i (00:24:19) cm setFlags "Net Class" ( Design "avrusb500_2" ) "POWERNETS" 536576
+\i (00:24:19) cm add ( Net "GND" ) to ( "Net Class" "POWERNETS" )
+\i (00:24:19) cm add ( Net "VCC" ) to ( "Net Class" "POWERNETS" )
+\i (00:24:19) cm endUndoBlock
+\i (00:24:25) cm startTransaction ( Design "avrusb500_2" ) ( "Net Class" "POWERNETS" ) TS_DEFER
+\i (00:24:25) cm add ( "Net Class" "POWERNETS" ) to ( "Physical CSet" "POWERRULE" )
+\i (00:24:25) cm commitTransaction ( Design "avrusb500_2" ) ( "Net Class" "POWERNETS" ) TS_DEFER
+\i (00:24:25) cm endUndoBlock
+\i (00:24:45) setwindow pcb
+\i (00:24:45) zoom out 1 
+\i (00:24:45) setwindow pcb
+\i (00:24:45) zoom out 45.2102 26.5294
+\i (00:24:45) trapsize 961
+\i (00:24:46) zoom out 1 
+\i (00:24:46) setwindow pcb
+\i (00:24:46) zoom out 45.2101 26.5295
+\i (00:24:46) trapsize 1922
+\i (00:24:46) zoom out 1 
+\i (00:24:46) setwindow pcb
+\i (00:24:46) zoom out 45.2485 26.4526
+\i (00:24:46) trapsize 3844
+\i (00:24:49) change 
+\i (00:25:03) setwindow form.find
+\i (00:25:03) FORM find lines YES 
+\i (00:25:06) FORM find clines NO 
+\i (00:25:16) setwindow form.mini
+\i (00:25:16) FORM mini line_width 0.3810 
+\i (00:25:18) setwindow form.find
+\i (00:25:18) FORM find lines NO 
+\i (00:25:20) FORM find find_by_name  
+\i (00:25:30) setwindow form.findname
+\i (00:25:30) FORM findname objtype Net 
+\i (00:25:35) FORM findname objlist Vcc 
+\i (00:25:38) FORM findname objlist Gnd 
+\i (00:25:41) FORM findname done  
+\i (00:25:41) setwindow cmgr
+\i (00:25:41) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:41) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:41) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:41) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:41) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:41) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\t (00:25:41) Changed 50 items out of 50 items found.
+\i (00:25:45) setwindow pcb
+\i (00:25:45) prepopup 49.3998 38.5989
+\i (00:25:46) oops 
+\i (00:25:46) setwindow cmgr
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:46) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:47) setwindow pcb
+\i (00:25:47) prepopup 50.4761 44.6721
+\i (00:25:48) pick grid 102.8282 49.2846
+\t (00:25:48) last pick:  102.8700  49.5300
+\i (00:25:49) setwindow form.find
+\i (00:25:49) FORM find find_by_name  
+\i (00:25:53) setwindow form.findname
+\i (00:25:53) FORM findname objlist Gnd 
+\i (00:25:55) FORM findname objlist Vcc 
+\i (00:25:56) FORM findname done  
+\i (00:25:56) setwindow cmgr
+\i (00:25:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:56) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:25:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:25:56) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\t (00:25:56) Changed 50 items out of 50 items found.
+\i (00:25:57) setwindow pcb
+\i (00:25:57) prepopup 50.7067 45.5177
+\i (00:25:58) done 
+\i (00:25:58) generaledit 
+\t (00:26:00) Pick to complete the window.
+\i (00:26:00) zoom out 1 
+\i (00:26:00) setwindow pcb
+\i (00:26:00) zoom out 142.6344 14.8213
+\i (00:26:00) trapsize 26138
+\i (00:26:01) zoom in 1 
+\i (00:26:01) setwindow pcb
+\i (00:26:01) zoom in -19.3267 -29.8433
+\i (00:26:01) trapsize 7303
+\i (00:26:02) pick 6.3188 13.5683
+\t (00:26:02) last pick:  6.3188  13.5683
+\i (00:26:02) setwindow pcb
+\i (00:26:02) zoom points
+\i (00:26:02) pick -35.2247 -5.8043
+\i (00:26:02) pick 139.0211 81.6953
+\i (00:26:02) trapsize 5381
+\i (00:26:02) generaledit 
+\i (00:26:03) zoom in 1 
+\i (00:26:03) setwindow pcb
+\i (00:26:03) zoom in 15.3593 14.8598
+\i (00:26:03) trapsize 2691
+\i (00:26:04) zoom in 1 
+\i (00:26:04) setwindow pcb
+\i (00:26:04) zoom in 32.8485 17.8196
+\i (00:26:04) trapsize 1345
+\i (00:26:04) zoom in 1 
+\i (00:26:04) setwindow pcb
+\i (00:26:04) zoom in 34.3284 18.1425
+\i (00:26:04) trapsize 673
+\i (00:26:06) zoom out 1 
+\i (00:26:06) setwindow pcb
+\i (00:26:06) zoom out 37.9069 19.5954
+\i (00:26:06) trapsize 1345
+\i (00:26:07) zoom out 1 
+\i (00:26:07) setwindow pcb
+\i (00:26:07) zoom out 38.9832 18.3039
+\i (00:26:07) trapsize 2691
+\i (00:26:07) zoom out 1 
+\i (00:26:07) setwindow pcb
+\i (00:26:07) zoom out 39.2523 17.8197
+\i (00:26:07) trapsize 5381
+\i (00:26:08) zoom in 1 
+\i (00:26:08) setwindow pcb
+\i (00:26:08) zoom in 99.0616 12.3308
+\i (00:26:08) trapsize 2691
+\e (00:26:11) Command not found: 0.381DownDownF6DownDownRightRightRightRightLeft
+\i (00:26:12) roam x -96 
+\i (00:26:12) roam x -96
+\i (00:26:12) roam x -96 
+\i (00:26:12) roam x -96
+\i (00:26:12) roam x -96 
+\i (00:26:12) roam x -96
+\i (00:26:16) zoom in 1 
+\i (00:26:16) setwindow pcb
+\i (00:26:16) zoom in 45.5716 22.0171
+\i (00:26:16) trapsize 1345
+\i (00:26:16) zoom in 1 
+\i (00:26:16) setwindow pcb
+\i (00:26:16) zoom in 45.6255 21.5328
+\i (00:26:16) trapsize 673
+\i (00:26:16) zoom in 1 
+\i (00:26:16) setwindow pcb
+\i (00:26:16) zoom in 45.6928 21.4521
+\i (00:26:16) trapsize 336
+\i (00:26:16) zoom in 1 
+\i (00:26:16) setwindow pcb
+\i (00:26:16) zoom in 45.7197 21.4319
+\i (00:26:16) trapsize 168
+\i (00:26:16) zoom out 1 
+\i (00:26:16) setwindow pcb
+\i (00:26:16) zoom out 45.9283 20.9813
+\i (00:26:16) trapsize 336
+\i (00:26:16) roam y 96 
+\i (00:26:16) roam y 96
+\i (00:26:17) roam y 96 
+\i (00:26:17) roam y 96
+\i (00:26:17) roam y -96 
+\i (00:26:17) roam y -96
+\i (00:26:18) roam y -96 
+\i (00:26:18) roam y -96
+\i (00:26:18) roam y -96 
+\i (00:26:18) roam y -96
+\i (00:26:18) roam y -96 
+\i (00:26:18) roam y -96
+\i (00:26:18) roam y -96 
+\i (00:26:18) roam y -96
+\i (00:26:18) roam y -96 
+\i (00:26:18) roam y -96
+\i (00:26:18) roam x -96 
+\i (00:26:18) roam x -96
+\i (00:26:18) roam y 96 
+\i (00:26:18) roam y 96
+\i (00:26:19) roam y 96 
+\i (00:26:19) roam y 96
+\i (00:26:19) roam x -96 
+\i (00:26:19) roam x -96
+\i (00:26:19) zoom out 1 
+\i (00:26:19) setwindow pcb
+\i (00:26:19) zoom out 44.2921 22.1820
+\i (00:26:19) trapsize 673
+\i (00:26:20) zoom out 1 
+\i (00:26:20) setwindow pcb
+\i (00:26:20) zoom out 44.2248 22.0072
+\i (00:26:20) trapsize 1345
+\i (00:26:21) roam x -96 
+\i (00:26:21) roam x -96
+\i (00:26:21) roam x -96 
+\i (00:26:21) roam x -96
+\i (00:26:22) roam x -96 
+\i (00:26:22) roam x -96
+\i (00:26:22) roam x -96 
+\i (00:26:22) roam x -96
+\i (00:26:22) roam x -96 
+\i (00:26:22) roam x -96
+\i (00:26:22) roam x -96 
+\i (00:26:22) roam x -96
+\i (00:26:23) roam x -96 
+\i (00:26:23) roam x -96
+\i (00:26:23) roam x -96 
+\i (00:26:23) roam x -96
+\i (00:26:23) roam x -96 
+\i (00:26:23) roam x -96
+\i (00:26:24) roam x -96 
+\i (00:26:24) roam x -96
+\i (00:26:24) roam y 96 
+\i (00:26:24) roam y 96
+\i (00:26:25) roam y 96 
+\i (00:26:25) roam y 96
+\i (00:26:25) roam y 96 
+\i (00:26:25) roam y 96
+\i (00:26:25) roam y 96 
+\i (00:26:25) roam y 96
+\i (00:26:25) roam y 96 
+\i (00:26:25) roam y 96
+\i (00:26:27) zoom in 1 
+\i (00:26:27) setwindow pcb
+\i (00:26:27) zoom in 11.6956 11.2382
+\i (00:26:27) trapsize 673
+\i (00:26:28) roam x 96 
+\i (00:26:28) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:29) roam x 96 
+\i (00:26:29) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:30) roam x 96 
+\i (00:26:30) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:31) roam x 96 
+\i (00:26:31) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:32) roam x 96 
+\i (00:26:32) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam x 96 
+\i (00:26:33) roam x 96
+\i (00:26:33) roam y 96 
+\i (00:26:33) roam y 96
+\i (00:26:33) zoom out 1 
+\i (00:26:33) setwindow pcb
+\i (00:26:33) zoom out 83.6825 11.2650
+\i (00:26:33) trapsize 1345
+\i (00:26:34) zoom out 1 
+\i (00:26:34) setwindow pcb
+\i (00:26:34) zoom out 90.4628 11.8300
+\i (00:26:34) trapsize 2691
+\i (00:26:34) roam x 96 
+\i (00:26:34) roam x 96
+\i (00:26:35) roam y -96 
+\i (00:26:35) roam y -96
+\i (00:26:35) zoom in 1 
+\i (00:26:35) setwindow pcb
+\i (00:26:35) zoom in 94.9698 16.2965
+\i (00:26:35) trapsize 1345
+\i (00:26:37) roam y -96 
+\i (00:26:37) roam y -96
+\i (00:26:37) roam y -96 
+\i (00:26:37) roam y -96
+\i (00:26:37) roam y -96 
+\i (00:26:37) roam y -96
+\i (00:26:37) roam y -96 
+\i (00:26:37) roam y -96
+\i (00:26:38) roam y -96 
+\i (00:26:38) roam y -96
+\i (00:26:38) roam x -96 
+\i (00:26:38) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:39) roam x -96 
+\i (00:26:39) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:40) roam x -96 
+\i (00:26:40) roam x -96
+\i (00:26:41) roam x -96 
+\i (00:26:41) roam x -96
+\i (00:26:41) roam x -96 
+\i (00:26:41) roam x -96
+\i (00:26:41) roam x -96 
+\i (00:26:41) roam x -96
+\i (00:26:41) roam y 96 
+\i (00:26:41) roam y 96
+\i (00:26:42) roam y 96 
+\i (00:26:42) roam y 96
+\i (00:26:47) roam y 96 
+\i (00:26:47) roam y 96
+\i (00:26:48) roam y 96 
+\i (00:26:48) roam y 96
+\i (00:26:48) roam y 96 
+\i (00:26:48) roam y 96
+\i (00:26:50) pick grid 9.9467 18.9334
+\t (00:26:50) last pick:  10.1600  19.0500
+\i (00:26:50) setwindow cmgr
+\i (00:26:50) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:50) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:50) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:26:52) setwindow pcb
+\i (00:26:52) add connect 
+\t (00:26:52) Pick first element.
+\t (00:26:52) last pick:  10.1600  19.0500
+\i (00:26:52) setwindow cmgr
+\i (00:26:52) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:52) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:52) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:26:54) setwindow pcb
+\i (00:26:54) Esc 
+\i (00:26:56) done 
+\i (00:26:56) generaledit 
+\i (00:26:56) setwindow cmgr
+\i (00:26:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:56) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:26:57) setwindow pcb
+\i (00:26:57) pick grid 13.5252 20.9782
+\t (00:26:57) last pick:  13.3350  20.9550
+\i (00:26:57) pick grid 12.6642 19.0141
+\t (00:26:57) last pick:  12.7000  19.0500
+\i (00:26:57) setwindow cmgr
+\i (00:26:57) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:57) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:57) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:26:59) setwindow pcb
+\i (00:26:59) drag_start grid 12.6642 18.9872
+\i (00:26:59) setwindow cmgr
+\i (00:26:59) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:59) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:26:59) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:26:59) setwindow pcb
+\i (00:26:59) slide 
+\t (00:26:59) Waiting for the destination pick.
+\i (00:27:00) drag_stop
+\t (00:27:00) Waiting for the destination pick.
+\i (00:27:01) add connect 
+\i (00:27:01) setwindow cmgr
+\i (00:27:01) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:01) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:01) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\t (00:27:01) Pick first element.
+\t (00:27:01) last pick:  12.7000  19.0500
+\i (00:27:01) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:01) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:01) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:27:01) setwindow pcb
+\i (00:27:01) pick grid 12.6104 18.9334
+\t (00:27:01) last pick:  12.7000  19.0500
+\w (00:27:01) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:27:03) Esc 
+\i (00:27:03) mouse_pos 12.3413 19.0679
+\i (00:27:03) pick grid 11.7225 19.0141
+\t (00:27:03) last pick:  11.4300  19.0500
+\t (00:27:03) No DRC errors detected.
+\t (00:27:03) Pick first element.
+\i (00:27:04) generaledit 
+\i (00:27:04) setwindow cmgr
+\i (00:27:04) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:04) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:04) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:27:04) setwindow pcb
+\i (00:27:04) slide 
+\t (00:27:04) Waiting for the destination pick.
+\i (00:27:05) pick grid 12.0185 19.1486
+\t (00:27:05) last pick:  12.0650  19.0500
+\t (00:27:05) No DRC errors detected.
+\i (00:27:05) generaledit 
+\i (00:27:06) pick grid 12.5566 18.9872
+\t (00:27:06) last pick:  12.7000  19.0500
+\i (00:27:06) setwindow cmgr
+\i (00:27:06) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:06) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:06) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:27:07) setwindow pcb
+\i (00:27:07) slide 
+\t (00:27:07) Waiting for the destination pick.
+\i (00:27:09) pick grid 13.2023 19.9558
+\t (00:27:09) last pick:  13.3350  19.6850
+\t (00:27:09) No DRC errors detected.
+\i (00:27:09) generaledit 
+\i (00:27:11) zoom in 1 
+\i (00:27:11) setwindow pcb
+\i (00:27:11) zoom in 12.5028 18.6912
+\i (00:27:11) trapsize 673
+\i (00:27:16) roam y 96 
+\i (00:27:16) roam y 96
+\i (00:27:19) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out 15.2069 14.9779
+\i (00:27:19) trapsize 1345
+\i (00:27:20) roam y -96 
+\i (00:27:20) roam y -96
+\i (00:27:20) zoom out 1 
+\i (00:27:20) setwindow pcb
+\i (00:27:20) zoom out 13.8078 19.8750
+\i (00:27:20) trapsize 2691
+\i (00:27:21) roam y 96 
+\i (00:27:21) roam y 96
+\i (00:27:21) roam x 96 
+\i (00:27:21) roam x 96
+\i (00:27:22) roam x 96 
+\i (00:27:22) roam x 96
+\i (00:27:22) roam x 96 
+\i (00:27:22) roam x 96
+\i (00:27:22) roam x 96 
+\i (00:27:22) roam x 96
+\i (00:27:22) roam x 96 
+\i (00:27:22) roam x 96
+\i (00:27:22) roam x 96 
+\i (00:27:22) roam x 96
+\i (00:27:22) roam y -96 
+\i (00:27:22) roam y -96
+\i (00:27:23) roam x -96 
+\i (00:27:23) roam x -96
+\i (00:27:23) roam y 96 
+\i (00:27:23) roam y 96
+\i (00:27:23) roam y -96 
+\i (00:27:23) roam y -96
+\i (00:27:25) roam x -96 
+\i (00:27:25) roam x -96
+\i (00:27:25) roam x -96 
+\i (00:27:25) roam x -96
+\i (00:27:26) roam x -96 
+\i (00:27:26) roam x -96
+\i (00:27:26) roam x -96 
+\i (00:27:26) roam x -96
+\i (00:27:28) roam x 96 
+\i (00:27:28) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:29) roam x 96 
+\i (00:27:29) roam x 96
+\i (00:27:30) roam x 96 
+\i (00:27:30) roam x 96
+\i (00:27:30) roam x 96 
+\i (00:27:30) roam x 96
+\i (00:27:30) roam x 96 
+\i (00:27:30) roam x 96
+\i (00:27:33) roam x 96 
+\i (00:27:33) roam x 96
+\i (00:27:34) roam x 96 
+\i (00:27:34) roam x 96
+\i (00:27:34) roam x 96 
+\i (00:27:34) roam x 96
+\i (00:27:36) zoom in 1 
+\i (00:27:36) setwindow pcb
+\i (00:27:36) zoom in 101.7502 17.8570
+\i (00:27:36) trapsize 1345
+\i (00:27:37) zoom in 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom in 101.8848 18.0454
+\i (00:27:37) trapsize 673
+\i (00:27:43) roam y 96 
+\i (00:27:43) roam y 96
+\i (00:27:44) roam x -96 
+\i (00:27:44) roam x -96
+\i (00:27:44) roam y 96 
+\i (00:27:44) roam y 96
+\i (00:27:44) zoom out 1 
+\i (00:27:44) setwindow pcb
+\i (00:27:44) zoom out 98.1040 16.3233
+\i (00:27:44) trapsize 1345
+\i (00:27:44) zoom in 1 
+\i (00:27:44) setwindow pcb
+\i (00:27:44) zoom in 96.2475 16.4040
+\i (00:27:44) trapsize 673
+\i (00:27:45) roam x -96 
+\i (00:27:45) roam x -96
+\i (00:27:45) zoom out 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom out 95.5345 16.3367
+\i (00:27:45) trapsize 1345
+\i (00:27:45) zoom out 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom out 94.9696 16.0409
+\i (00:27:45) trapsize 2691
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:46) roam x -96 
+\i (00:27:46) roam x -96
+\i (00:27:47) roam y -96 
+\i (00:27:47) roam y -96
+\i (00:27:47) roam x -96 
+\i (00:27:47) roam x -96
+\i (00:27:48) roam y -96 
+\i (00:27:48) roam y -96
+\i (00:27:49) zoom in 1 
+\i (00:27:49) setwindow pcb
+\i (00:27:49) zoom in 40.0277 32.3326
+\i (00:27:49) trapsize 1345
+\i (00:27:49) zoom in 1 
+\i (00:27:49) setwindow pcb
+\i (00:27:49) zoom in 40.0277 32.3326
+\i (00:27:49) trapsize 673
+\i (00:27:56) pick grid 38.7228 33.7587
+\t (00:27:56) last pick:  38.7350  33.6550
+\i (00:27:56) setwindow cmgr
+\i (00:27:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:27:56) setwindow pcb
+\i (00:27:56) pick grid 38.7228 33.7587
+\t (00:27:56) last pick:  38.7350  33.6550
+\i (00:27:56) setwindow cmgr
+\i (00:27:56) cm expand ( row ( Design "avrusb500_2" ) )
+\i (00:28:01) setwindow pcb
+\i (00:28:01) add connect 
+\t (00:28:01) Selected item not valid for current operation, ignored: Net "Bmosi"
+\t (00:28:01) No valid items selected for the current operation, exiting.
+\i (00:28:01) generaledit 
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out 39.2475 33.1802
+\i (00:28:05) trapsize 1345
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out 40.1892 32.7497
+\i (00:28:05) trapsize 2691
+\i (00:28:07) roam y 96 
+\i (00:28:07) roam y 96
+\i (00:28:07) roam x 96 
+\i (00:28:07) roam x 96
+\i (00:28:08) roam x 96 
+\i (00:28:08) roam x 96
+\i (00:28:08) roam x 96 
+\i (00:28:08) roam x 96
+\i (00:28:08) roam x 96 
+\i (00:28:08) roam x 96
+\i (00:28:08) roam x 96 
+\i (00:28:08) roam x 96
+\i (00:31:28) zoom in 1 
+\i (00:31:28) setwindow pcb
+\i (00:31:28) zoom in 73.8217 13.4983
+\i (00:31:28) trapsize 1345
+\i (00:31:29) zoom in 1 
+\i (00:31:29) setwindow pcb
+\i (00:31:29) zoom in 73.1760 13.5252
+\i (00:31:29) trapsize 673
+\i (00:31:29) zoom out 1 
+\i (00:31:29) setwindow pcb
+\i (00:31:29) zoom out 71.7769 13.9558
+\i (00:31:29) trapsize 1345
+\i (00:34:53) save 
+\i (00:34:53) fillin yes 
+\e (00:34:53) File "avrusb500_2.brd" was locked on date "Fri Jul 19 10:29:57 2019" by user "user" on system "USER-PC".  Save design to another name or contact user to remove their lock.
+\i (00:34:55) fillin confirm
+\i (00:34:55) generaledit 
+\i (00:34:58) save_as 
+\i (00:35:07) fillin "avrusb500_3.brd"
+\i (00:35:08) generaledit 
+\i (00:42:43) zoom out 1 
+\i (00:42:43) setwindow pcb
+\i (00:42:43) zoom out 90.8534 11.4804
+\i (00:42:43) trapsize 2691
+\i (00:42:44) zoom out 1 
+\i (00:42:44) setwindow pcb
+\i (00:42:44) zoom out 89.1313 11.7494
+\i (00:42:44) trapsize 5381
+\i (00:42:44) zoom out 1 
+\i (00:42:44) setwindow pcb
+\i (00:42:44) zoom out 99.7053 11.6418
+\i (00:42:44) trapsize 10762
+\i (00:42:44) zoom in 1 
+\i (00:42:44) setwindow pcb
+\i (00:42:44) zoom in 201.8407 15.0050
+\i (00:42:44) trapsize 5381
+\i (00:42:45) zoom out 1 
+\i (00:42:45) setwindow pcb
+\i (00:42:45) zoom out 142.4322 14.3593
+\i (00:42:45) trapsize 10762
+\i (00:42:46) roam x -96 
+\i (00:42:46) roam x -96
+\i (00:42:46) roam x -96 
+\i (00:42:46) roam x -96
+\i (00:42:46) zoom out 1 
+\i (00:42:46) setwindow pcb
+\i (00:42:46) zoom out 0.3682 -8.4571
+\i (00:42:46) trapsize 21525
+\i (00:42:47) roam x -96 
+\i (00:42:48) zoom out 1 
+\i (00:42:48) setwindow pcb
+\i (00:42:48) zoom out -9.9638 -29.3361
+\i (00:42:48) trapsize 30750
+\i (00:42:48) zoom out 1 
+\i (00:42:48) setwindow pcb
+\i (00:42:48) zoom out 5.3506 -22.3247
+\i (00:42:48) trapsize 30750
+\i (00:42:48) zoom in 1 
+\i (00:42:48) setwindow pcb
+\i (00:42:48) zoom in -37.6999 -45.6950
+\i (00:42:48) trapsize 15375
+\i (00:42:48) zoom in 1 
+\i (00:42:48) setwindow pcb
+\i (00:42:48) zoom in -41.6974 -45.6950
+\i (00:42:48) trapsize 7688
+\i (00:42:50) zoom in 1 
+\i (00:42:50) setwindow pcb
+\i (00:42:50) zoom in -4.9508 -28.4748
+\i (00:42:50) trapsize 3844
+\i (00:42:50) roam y -96 
+\i (00:42:50) roam y -96
+\i (00:42:51) roam y -96 
+\i (00:42:51) roam y -96
+\i (00:42:51) roam y -96 
+\i (00:42:51) roam y -96
+\i (00:42:52) roam x 96 
+\i (00:42:52) roam x 96
+\i (00:42:52) roam x 96 
+\i (00:42:52) roam x 96
+\i (00:42:55) roam y -96 
+\i (00:42:55) roam y -96
+\i (00:42:55) roam x -96 
+\i (00:42:55) roam x -96
+\i (00:42:55) roam y 96 
+\i (00:42:55) roam y 96
+\i (00:42:56) zoom in 1 
+\i (00:42:56) setwindow pcb
+\i (00:42:56) zoom in 9.9632 18.2657
+\i (00:42:56) trapsize 1922
+\i (00:42:59) pick grid 5.5044 26.5299
+\t (00:42:59) last pick:  5.7150  26.6700
+\i (00:42:59) setwindow cmgr
+\i (00:42:59) cm expand ( row ( Design "avrusb500_3" ) )
+\i (00:42:59) cm expand ( row ( Design "avrusb500_3" ) )
+\i (00:42:59) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:43:06) setwindow pcb
+\i (00:43:06) roam y -96 
+\i (00:43:06) roam y -96
+\i (00:43:07) zoom out 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom out 7.3879 30.7579
+\i (00:43:07) trapsize 3844
+\i (00:43:08) zoom out 1 
+\i (00:43:08) setwindow pcb
+\i (00:43:08) zoom out 29.6050 25.9148
+\i (00:43:08) trapsize 7688
+\i (00:43:09) zoom in 1 
+\i (00:43:09) setwindow pcb
+\i (00:43:09) zoom in -13.8684 25.3383
+\i (00:43:09) trapsize 3844
+\i (00:43:10) roam x 96 
+\i (00:43:10) roam x 96
+\i (00:43:10) roam x 96 
+\i (00:43:10) roam x 96
+\i (00:43:11) roam x 96 
+\i (00:43:11) roam x 96
+\i (00:43:16) silkscreen param 
+\i (00:44:00) setwindow form.autosilk
+\i (00:44:00) FORM autosilk text_0 NO 
+\i (00:44:01) FORM autosilk text_0 YES 
+\i (00:44:02) FORM autosilk text_180 NO 
+\i (00:44:02) FORM autosilk text_270 NO 
+\i (00:44:03) FORM autosilk text_90 NO 
+\i (00:44:08) FORM autosilk done  
+\i (00:44:08) setwindow pcb
+\i (00:44:08) silkscreen execute 
+\i (00:44:08) generaledit 
+\i (00:44:17) color192 
+\i (00:44:17) setwindow cvf.dialog
+\i (00:44:17) cvf layer_mode
+\i (00:44:17) setwindow pcb
+\i (00:44:17) generaledit 
+\i (00:44:25) setwindow cvf.dialog
+\i (00:44:25) cvf global_invisible
+\i (00:44:28) cvf layer_tree_item 'Manufacturing'
+\i (00:44:37) cvf layers_visible manufacturing/autosilk_top TRUE
+\i (00:44:38) cvf layers_visible manufacturing/autosilk_bottom TRUE
+\i (00:44:47) cvf layers_color manufacturing/autosilk_top 1
+\i (00:44:49) cvf select_color_cell 49
+\i (00:44:52) cvf layers_color manufacturing/autosilk_bottom 50
+\i (00:44:55) cvf layers_color manufacturing/autosilk_top 50
+\i (00:44:56) cvf layers_color manufacturing/autosilk_bottom 50
+\i (00:44:58) cvf select_color_cell 36
+\i (00:45:02) cvf select_color_cell 68
+\i (00:45:05) cvf select_color_cell 20
+\i (00:45:07) cvf layers_color manufacturing/autosilk_bottom 21
+\i (00:45:09) cvf apply
+\i (00:45:10) cvf okay
+\i (00:45:16) setwindow form.mini
+\i (00:45:16) FORM mini subclass TOP 
+\i (00:45:17) FORM mini subclass BOTTOM 
+\i (00:45:42) setwindow pcb
+\i (00:45:42) move 
+\t (00:45:42) No valid items selected for the current operation, exiting.
+\i (00:45:43) generaledit 
+\i (00:45:48) trapsize 3774
+\i (00:45:57) setwindow form.find
+\i (00:45:57) FORM find all_off  
+\i (00:45:58) FORM find text YES 
+\i (00:46:03) setwindow pcb
+\i (00:46:03) pick grid 25.3771 5.4064
+\t (00:46:03) last pick:  25.4000  5.7150
+\i (00:46:05) drag_start grid 24.1694 5.9347
+\i (00:46:05) move 
+\t (00:46:05) last pick:  22.3420  5.2653
+\t (00:46:05) Pick new location for the element(s).
+\i (00:46:05) drag_stop grid 25.0752 0.8022
+\i (00:46:05) generaledit 
+\i (00:46:06) drag_start grid 26.1319 0.1984
+\i (00:46:06) move 
+\t (00:46:06) last pick:  24.7650  0.6350
+\t (00:46:06) Pick new location for the element(s).
+\i (00:46:08) drag_stop grid 26.0564 1.7080
+\i (00:46:08) generaledit 
+\i (00:46:10) drag_start grid 6.0549 9.3312
+\i (00:46:10) move 
+\t (00:46:10) last pick:  6.2230  21.7424
+\t (00:46:10) Pick new location for the element(s).
+\i (00:46:11) drag_stop grid -3.1533 11.1426
+\i (00:46:11) generaledit 
+\i (00:46:12) drag_start grid -3.0024 12.4257
+\i (00:46:12) move 
+\t (00:46:12) last pick:  -3.1750  11.4300
+\t (00:46:12) Pick new location for the element(s).
+\i (00:46:13) drag_stop grid 1.3753 16.7279
+\i (00:46:14) generaledit 
+\i (00:46:14) drag_start grid 6.5832 17.8601
+\i (00:46:14) move 
+\t (00:46:14) last pick:  6.5616  17.2804
+\t (00:46:14) Pick new location for the element(s).
+\i (00:46:15) drag_stop grid 8.6966 19.1432
+\i (00:46:15) generaledit 
+\i (00:46:16) drag_start grid 4.0925 8.4254
+\i (00:46:16) move 
+\t (00:46:16) last pick:  3.2800  7.9913
+\t (00:46:16) Pick new location for the element(s).
+\i (00:46:17) drag_stop grid 2.5829 12.0484
+\i (00:46:17) generaledit 
+\i (00:46:19) drag_start grid 7.4890 5.6328
+\i (00:46:19) move 
+\t (00:46:19) last pick:  6.4880  4.6830
+\t (00:46:19) Pick new location for the element(s).
+\i (00:46:20) drag_stop grid 3.7906 1.4815
+\i (00:46:20) generaledit 
+\i (00:46:24) color192 
+\i (00:46:25) setwindow cvf.dialog
+\i (00:46:25) cvf layer_mode
+\i (00:46:25) setwindow pcb
+\i (00:46:25) generaledit 
+\i (00:46:28) setwindow cvf.dialog
+\i (00:46:28) cvf cancel
+\i (00:46:32) setwindow form.vf_vis
+\i (00:46:32) FORM vf_vis all_via_visible YES 
+\i (00:46:37) FORM vf_vis all_pin_visible YES 
+\i (00:46:42) setwindow pcb
+\i (00:46:42) zoom in 1 
+\i (00:46:42) setwindow pcb
+\i (00:46:42) zoom in 12.3950 2.9156
+\i (00:46:42) trapsize 1887
+\i (00:46:44) zoom out 1 
+\i (00:46:44) setwindow pcb
+\i (00:46:44) zoom out 45.3786 5.8970
+\i (00:46:44) trapsize 3774
+\i (00:46:45) zoom in 1 
+\i (00:46:45) setwindow pcb
+\i (00:46:45) zoom in 52.6998 7.2555
+\i (00:46:45) trapsize 1887
+\i (00:46:46) pick grid 40.5857 11.8219
+\t (00:46:46) last pick:  40.6400  12.0650
+\i (00:46:48) drag_start grid 40.8121 12.3125
+\i (00:46:48) move 
+\t (00:46:48) last pick:  38.2380  11.5410
+\t (00:46:48) Pick new location for the element(s).
+\i (00:46:48) drag_stop grid 41.3405 13.8975
+\i (00:46:48) generaledit 
+\i (00:46:49) drag_start grid 42.8500 14.6901
+\i (00:46:49) move 
+\t (00:46:49) last pick:  41.2750  13.9700
+\t (00:46:49) Pick new location for the element(s).
+\i (00:46:50) drag_stop grid 40.2083 12.7277
+\i (00:46:50) generaledit 
+\i (00:46:51) drag_start grid 40.4725 6.0479
+\i (00:46:51) move 
+\t (00:46:51) last pick:  38.2380  5.9530
+\t (00:46:51) Pick new location for the element(s).
+\i (00:46:52) drag_stop grid 38.3214 1.0664
+\i (00:46:53) generaledit 
+\i (00:46:54) drag_start grid 33.5663 5.2931
+\i (00:46:54) move 
+\t (00:46:54) last pick:  34.1630  10.9474
+\t (00:46:54) Pick new location for the element(s).
+\i (00:46:56) drag_stop grid 34.1701 1.9721
+\i (00:46:56) generaledit 
+\i (00:46:57) iangle 90 
+\e (00:46:57) angle command is not allowed in this mode.
+\i (00:46:59) move 
+\t (00:46:59) last pick:  34.2900  1.9050
+\t (00:46:59) Pick new location for the element(s).
+\i (00:47:00) iangle 90 
+\t (00:47:00) last pick:  9.0000  0.0000
+\i (00:47:01) iangle 90 
+\t (00:47:01) last pick:  9.0000  0.0000
+\i (00:47:01) iangle 90 
+\t (00:47:01) last pick:  9.0000  0.0000
+\i (00:47:02) pick grid 35.1891 -0.3299
+\t (00:47:02) last pick:  34.9250  -0.6350
+\i (00:47:03) generaledit 
+\i (00:47:04) roam x 96 
+\i (00:47:04) roam x 96
+\i (00:47:04) roam x 96 
+\i (00:47:04) roam x 96
+\i (00:47:04) roam x 96 
+\i (00:47:04) roam x 96
+\i (00:47:05) roam x 96 
+\i (00:47:05) roam x 96
+\i (00:47:05) roam x 96 
+\i (00:47:05) roam x 96
+\i (00:47:05) roam x 96 
+\i (00:47:05) roam x 96
+\i (00:47:06) pick grid 64.6500 2.9911
+\t (00:47:06) last pick:  64.7700  3.1750
+\i (00:47:46) pick grid 62.6121 3.4439
+\t (00:47:46) last pick:  62.8650  3.1750
+\i (00:47:47) move 
+\t (00:47:47) last pick:  58.5724  2.7940
+\t (00:47:47) Pick new location for the element(s).
+\i (00:47:51) pick grid 60.1214 0.9532
+\t (00:47:51) last pick:  60.3250  1.2700
+\i (00:47:51) generaledit 
+\i (00:47:54) pick grid 54.3851 5.5951
+\t (00:47:54) last pick:  54.6100  5.7150
+\i (00:47:58) drag_start grid 46.8374 -0.1035
+\i (00:47:58) move 
+\t (00:47:58) last pick:  34.9250  -0.6350
+\t (00:47:58) Pick new location for the element(s).
+\i (00:47:59) drag_stop
+\i (00:48:01) pick grid 39.0255 -2.1036
+\t (00:48:01) last pick:  38.7350  -1.9050
+\i (00:48:01) generaledit 
+\i (00:48:36) drag_start grid 49.0639 15.5580
+\i (00:48:36) drag_stop 48.0450 15.8222
+\i (00:48:38) zoom out 1 
+\i (00:48:38) setwindow pcb
+\i (00:48:38) zoom out 66.1595 3.1798
+\i (00:48:38) trapsize 3774
+\i (00:48:40) pick grid 79.8965 4.0855
+\t (00:48:40) last pick:  80.0100  3.8100
+\i (00:48:45) pick grid 17.7787 15.8599
+\t (00:48:45) last pick:  17.7800  15.8750
+\i (00:48:46) drag_start grid 15.5143 17.4450
+\i (00:48:46) drag_stop 21.0997 13.9730
+\i (00:48:47) move 
+\i (00:48:49) pick grid 11.3631 16.4638
+\t (00:48:49) last pick:  11.4300  16.5100
+\t (00:48:49) Pick new location for the element(s).
+\i (00:48:50) pick grid 6.3061 16.2373
+\t (00:48:50) last pick:  6.3500  16.5100
+\i (00:48:50) generaledit 
+\i (00:48:55) pick grid 23.9678 42.8808
+\t (00:48:55) last pick:  24.1300  43.1800
+\i (00:48:56) pick grid 31.0627 35.7859
+\t (00:48:56) last pick:  31.1150  35.5600
+\i (00:48:58) pick grid 31.1381 36.4652
+\t (00:48:58) last pick:  31.1150  36.1950
+\e (00:49:01) Command not found: aDownDownSF6SF6SF6
+\i (00:49:01) move 
+\t (00:49:02) last pick:  30.6180  35.0360
+\t (00:49:02) Pick new location for the element(s).
+\i (00:49:02) pick grid 27.2133 38.3522
+\t (00:49:02) last pick:  27.3050  38.1000
+\i (00:49:03) generaledit 
+\i (00:49:07) prmed 
+\i (00:49:11) setwindow form.prmedit
+\i (00:49:11) FORM prmedit text  
+\i (00:49:17) FORM prmedit text_setup_button  
+\i (00:49:45) setwindow form.textblock
+\i (00:49:45) FORM textblock compact  
+\i (00:49:47) FORM textblock done  
+\i (00:49:50) setwindow form.prmedit
+\i (00:49:50) FORM prmedit text_setup_button  
+\i (00:50:18) setwindow form.textblock
+\i (00:50:18) FORM textblock add  
+\i (00:50:56) FORM textblock nextname1 photoplot_width 0.2000 
+\i (00:51:08) FORM textblock done  
+\i (00:51:09) setwindow form.prmedit
+\i (00:51:09) FORM prmedit done  
+\i (00:51:09) setwindow pcb
+\i (00:51:09) generaledit 
+\i (00:51:12) zoom out 1 
+\i (00:51:12) setwindow pcb
+\i (00:51:12) zoom out 42.8371 18.2752
+\i (00:51:12) trapsize 7548
+\i (00:51:12) zoom in 1 
+\i (00:51:12) setwindow pcb
+\i (00:51:12) zoom in 57.3287 20.6905
+\i (00:51:12) trapsize 3774
+\i (00:51:13) zoom out 1 
+\i (00:51:13) setwindow pcb
+\i (00:51:13) zoom out 33.1005 19.7848
+\i (00:51:13) trapsize 7548
+\i (00:51:26) change 
+\i (00:51:38) setwindow form.mini
+\i (00:51:38) FORM mini apply_width NO 
+\i (00:51:42) FORM mini apply_size YES 
+\i (00:52:00) FORM mini text_block 4 
+\i (00:52:07) setwindow form.find
+\i (00:52:07) FORM find text YES 
+\i (00:52:13) setwindow pcb
+\i (00:52:13) drag_start grid -8.1100 44.8433
+\i (00:52:15) drag_stop 115.6727 -5.2736
+\e (00:52:15) ERROR(SPMHGE-554): Text already matches option panel settings.
+\t (00:52:15) Changed 9 items out of 143 items found.
+\i (00:52:33) prmed 
+\i (00:52:36) setwindow form.prmedit
+\i (00:52:36) FORM prmedit text_setup_button  
+\i (00:52:42) setwindow form.textblock
+\i (00:52:42) FORM textblock 6 width 0.8000 
+\i (00:52:44) FORM textblock 6 height 1.2000 
+\i (00:52:50) FORM textblock done  
+\i (00:52:54) setwindow form.prmedit
+\i (00:52:54) FORM prmedit done  
+\i (00:52:54) setwindow pcb
+\i (00:52:54) generaledit 
+\i (00:52:56) drag_start grid -4.6381 44.9942
+\i (00:52:58) drag_stop 115.2198 -13.5761
+\i (00:53:00) pick grid 114.7670 -6.0284
+\t (00:53:00) last pick:  114.9350  -5.7150
+\i (00:53:01) drag_start grid 117.7860 -7.5379
+\i (00:53:02) drag_stop -11.7329 44.3904
+\i (00:53:03) pick grid -9.1667 62.8069
+\t (00:53:03) last pick:  -8.8900  62.8650
+\i (00:53:08) change 
+\i (00:53:12) drag_start grid -4.7890 45.9000
+\i (00:53:13) drag_stop 122.9185 -11.9156
+\e (00:53:13) ERROR(SPMHGE-554): Text already matches option panel settings.
+\i (00:53:14) drag_start grid 110.0874 3.0289
+\i (00:53:15) drag_stop -5.6947 43.4847
+\e (00:53:15) ERROR(SPMHGE-554): Text already matches option panel settings.
+\i (00:53:25) prmed 
+\i (00:53:27) setwindow form.prmedit
+\i (00:53:27) FORM prmedit text_setup_button  
+\i (00:53:51) setwindow form.textblock
+\i (00:53:51) FORM textblock cancel  
+\i (00:53:59) setwindow form.prmedit
+\i (00:53:59) FORM prmedit cancel  
+\i (00:54:00) setwindow pcb
+\i (00:54:00) generaledit 
+\i (00:54:00) zoom in 1 
+\i (00:54:00) setwindow pcb
+\i (00:54:00) zoom in 36.4216 -0.2921
+\i (00:54:00) trapsize 3774
+\i (00:54:00) zoom in 1 
+\i (00:54:00) setwindow pcb
+\i (00:54:00) zoom in 36.1197 -0.0656
+\i (00:54:00) trapsize 1887
+\i (00:54:01) zoom in 1 
+\i (00:54:01) setwindow pcb
+\i (00:54:01) zoom in 36.3839 6.5387
+\i (00:54:01) trapsize 943
+\i (00:54:01) zoom in 1 
+\i (00:54:01) setwindow pcb
+\i (00:54:01) zoom in 37.2141 7.6143
+\i (00:54:01) trapsize 472
+\i (00:54:02) zoom in 1 
+\i (00:54:02) setwindow pcb
+\i (00:54:02) zoom in 35.6480 6.7558
+\i (00:54:02) trapsize 236
+\i (00:54:02) zoom out 1 
+\i (00:54:02) setwindow pcb
+\i (00:54:02) zoom out 36.9405 7.4587
+\i (00:54:02) trapsize 472
+\i (00:54:03) zoom out 1 
+\i (00:54:03) setwindow pcb
+\i (00:54:03) zoom out 37.5727 7.8361
+\i (00:54:03) trapsize 943
+\i (00:54:03) zoom out 1 
+\i (00:54:03) setwindow pcb
+\i (00:54:03) zoom out 39.6861 7.4965
+\i (00:54:03) trapsize 1887
+\i (00:54:04) zoom out 1 
+\i (00:54:04) setwindow pcb
+\i (00:54:04) zoom out 39.9502 6.6286
+\i (00:54:04) trapsize 3774
+\i (00:54:04) zoom in 1 
+\i (00:54

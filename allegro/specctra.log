@@ -1,0 +1,58 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Fri Jul 19 09:47:09 2019
+# 
+# Allegro PCB Router v16-5-13 made 2011/04/23 at 12:17:35
+# Running on: user-pc, OS Version: WindowsNT 6.1.7601, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro\avrusb500_1.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/specctra.did
+# Current time = Fri Jul 19 09:47:10 2019
+# PCB C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro
+# Master Unit set up as: MM 100000
+# PCB Limits xlo= -2.2000 ylo= -0.4000 xhi=112.2000 yhi= 38.7000
+# Total 27 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.3048 ylo= -0.3048 xhi=  0.3048 yhi=  0.3048
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 106, Vias Processed 52
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 34, Images Processed 41, Padstacks Processed 21
+# Nets Processed 35, Net Terminals 163
+# PCB Area= 3536.000  EIC=10  Area/EIC=353.600  SMDs=3
+# Total Pin Count: 146
+# Signal Connections Created 25
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2534, Clearance= 0.2534
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2534, Clearance= 0.2534
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro\avrusb500_1.dsn
+# Nets 35 Connections 77 Unroutes 25
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 10, at vias 8 Total Vias 52
+# Percent Connected   37.66
+# Manhattan Length 1818.9600 Horizontal 1327.2008 Vertical 491.7591
+# Routed Length 1390.9097 Horizontal 934.4187 Vertical 610.6227
+# Ratio Actual / Manhattan   0.7647
+# Unconnected Length 592.3890 Horizontal 421.7390 Vertical 170.6500
+# Total Conflicts: 96 (Cross: 0, Clear: 96, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro\avrusb500_1_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <

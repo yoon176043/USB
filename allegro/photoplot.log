@@ -1,0 +1,538 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : avrusb500_3.brd                               )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Fri Jul 19 13:53:07 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: Film contains DRC error(s).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Silk_t >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Silk_t.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: text composed 0 width line found at (5.5400 8.8380)
+           ... ignored!
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored!
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (6.3500 15.2400)
+           ... ignored!
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     Silk_t created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silk_b >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Silk_b.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:  NONE
+     Silk_b created.
+
+
+================================================================
+     PROCESSING FILM < Past_t >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Past_t.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     Past_t created.
+
+
+================================================================
+     PROCESSING FILM < Past_b >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Past_b.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     Past_b created.
+
+
+================================================================
+     PROCESSING FILM < Sold_t >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Sold_t.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.90500                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     Sold_t created.
+
+
+================================================================
+     PROCESSING FILM < Sold_b >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Sold_b.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.90500                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     Sold_b created.
+
+
+================================================================
+     PROCESSING FILM < DillDraw >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/DillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: 0 width line found at (0.0000 -13.7898)
+           ... ignored!
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored!
+
+
+
+  APERTURES USED:  NONE
+     DillDraw created with warnings
+
+
+================================================================
+     PROCESSING FILM < Metal_t >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Metal_t.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+
+     Metal_t created.
+
+
+================================================================
+     PROCESSING FILM < Metal_b >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Metal_b.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+
+     Metal_b created.
+
+
+================================================================
+     PROCESSING FILM < Autosilk_t >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Autosilk_t.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     Autosilk_t created.
+
+
+================================================================
+     PROCESSING FILM < Autosilk_b >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Autosilk_b.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:  NONE
+     Autosilk_b created.
+
+
+================================================================
+     PROCESSING FILM < Design >
+     TO FILE < C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber/Design.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: Film contains DRC error(s).
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (28.6890 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (29.4890 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (30.2900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (31.0900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (31.8900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (32.6900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.4900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (27.2420 25.6920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 24.8920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 24.0920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 23.2920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 22.4920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 21.6920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 20.8920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (33.4900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (32.6900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.8900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.0900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (30.2900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (29.4890 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (28.6890 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (27.2420 26.4920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (34.2900 19.4440).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 20.8920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 21.6920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 22.4920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 23.2920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 24.0920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (35.7380 24.8920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 25.6920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (34.2900 27.9400).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7380 26.4920).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (78.1050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.9050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (79.7050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 18.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 17.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 16.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (76.6570 15.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 14.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 14.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (79.7050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (78.9050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (78.1050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 19.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (76.6570 18.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (80.5050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (81.3050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (82.1050 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (82.9060 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.7060 12.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 14.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (85.1530 14.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 15.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 16.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 17.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 18.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 18.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.1530 19.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (83.7060 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (82.9060 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (82.1050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (81.3050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (80.5050 21.1960).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_GND at (101.0750 15.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_EL at (101.0750 17.7500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_EL at (101.0750 16.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_GND at (101.0750 22.9500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_EL at (101.0750 21.6500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_EL at (101.0750 20.3500).
+    WARNING: Null REGULAR-PAD specified for padstack MY_USB_EL at (101.0750 19.0500).
+
+    ERROR: aborting film - Shape with first seg=(4.3182 26.0551) [layer=BOTTOM]
+	has a void with extents [(103.6978 24.0228) (105.8522 25.4772)] that touches
+	another shape with first seg=(3.0001 3.0509). Manually resolve problem.
+
+    ERROR: aborting film - artwork will not be generated!
+ Error in Design--halting output.  Artwork file not generated.
+ *** ERROR with Design
+
+
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created.
+        Silk_t created with warnings
+        Silk_b created.
+        Past_t created.
+        Past_b created.
+        Sold_t created.
+        Sold_b created.
+        DillDraw created with warnings
+        Metal_t created.
+        Metal_b created.
+        Autosilk_t created.
+        Autosilk_b created.
+    *** ERROR with Design
+
+ ARTWORK Error

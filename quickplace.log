@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : avrusb500.brd                                 )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Thu Jul 18 15:57:00 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J1 / CON5_BLKCON100VHTM1SQSW1005_BBP / BLKCON100VHTM1SQSW1005
+ERROR:   Could not find symbol:  J3 / CON5_BLKCON100VHTM1SQSW1005_AVR / BLKCON100VHTM1SQSW1005
+ERROR:   Could not find symbol:  J4 / CON5_BLKCON100VHTM1SQSW1005_FIR / BLKCON100VHTM1SQSW1005
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+

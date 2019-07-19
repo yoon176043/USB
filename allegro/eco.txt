@@ -1,0 +1,48 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  c:.../desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 16:45:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA8-DIL28_2_QUAD80M32WG900_
+ CON5_JUMPER5_AVRUSB500_OUT_
+ CON5_JUMPER5_BBPG_BITBANG_
+ CON5_JUMPER5_FIRMWARE_IN_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  c:.../desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 16:45:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1                 ATMEGA8-DIL28_2_QUAD80M32WG900_ 22.8600 20.3200 ATMEGA8-DIL28_1_QUAD80M32WG900_
+ J1                  CON5_JUMPER5_BBPG_BITBANG_                 CON5_BLKCON100VHTM1SQSW1005_BBP
+ J3                  CON5_JUMPER5_AVRUSB500_OUT_                 CON5_BLKCON100VHTM1SQSW1005_AVR
+ J4                  CON5_JUMPER5_FIRMWARE_IN_                 CON5_BLKCON100VHTM1SQSW1005_FIR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  c:.../desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 16:45:44 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.7          22.8600 20.3200 PRIM_FILE      .\pstchip.dat
+ J1.5                           PRIM_FILE      .\pstchip.dat
+ J3.5                           PRIM_FILE      .\pstchip.dat
+ J4.5                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  12                                             |
+|------------------------------------------------------------------------------|

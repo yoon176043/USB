@@ -1,0 +1,270 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5V          pins ADDED TO this new net
+                                 J2.4           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BMISO        pins ADDED TO this new net
+                                 J1.3           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BMOSI        pins ADDED TO this new net
+                                 J1.2           R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BRESET       pins ADDED TO this new net
+                                 J1.1           R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BSCK         pins ADDED TO this new net
+                                 C10.2          J1.4           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D+           pins ADDED TO this new net
+                                 J2.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D-           pins ADDED TO this new net
+                                 J2.3           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  F_MISO       pins ADDED TO this new net
+                                 IC1.18         J4.3           R12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  F_MOSI       pins ADDED TO this new net
+                                 IC1.17         J4.2           R13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  F_SCK        pins ADDED TO this new net
+                                 IC1.19         J4.4           R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.2           C5.2           C6.2           
+                                 C7.1           C8.1           C9.2           
+                                 C10.1          IC1.8          IC1.22         
+                                 J1.5           J2.1           J3.5           
+                                 J4.5           U1.9           U1.14          
+                                 U1.17          U1.29          U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 J3.3           R12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 J3.2           R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02483       pins ADDED TO this new net
+                                 R6.2           R7.1           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02615       pins ADDED TO this new net
+                                 R5.2           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03527       pins ADDED TO this new net
+                                 C4.1           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06839       pins ADDED TO this new net
+                                 R2.1           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06967       pins ADDED TO this new net
+                                 R3.1           U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07033       pins ADDED TO this new net
+                                 R4.1           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07247       pins ADDED TO this new net
+                                 R14.1          U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11951       pins ADDED TO this new net
+                                 R7.2           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15182       pins ADDED TO this new net
+                                 C7.2           IC1.9          Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15289       pins ADDED TO this new net
+                                 C8.2           IC1.10         Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19734       pins ADDED TO this new net
+                                 D1.2           IC1.23         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20572       pins ADDED TO this new net
+                                 D1.1           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N22544       pins ADDED TO this new net
+                                 IC1.16         R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N41098       pins ADDED TO this new net
+                                 C3.2           U1.27          Y2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N41106       pins ADDED TO this new net
+                                 C2.2           U1.28          Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N49165       pins ADDED TO this new net
+                                 C1.2           R1.1           U1.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 IC1.1          J3.1           J4.1           
+                                 R9.2           R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD          pins ADDED TO this new net
+                                 IC1.2          U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 J3.4           R11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TXD          pins ADDED TO this new net
+                                 IC1.3          U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 C5.1           C6.1           C9.1           
+                                 IC1.7          IC1.20         R1.2           
+                                 R8.2           R9.1           R10.2          
+                                 U1.3           U1.4           U1.13          
+                                 U1.26          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA8-DIL28_1_QUAD80M32WG900_
+ CAPACITOR NON-POL_CPCYL1D225LS1
+ CAPACITOR NON-POL_CPCYL1D225L_1
+ CAPACITOR NON-POL_CPCYL1D225L_2
+ CAPACITOR NON-POL_CPCYL1D225L_3
+ CAPACITOR POL_CPCYL1D225LS10003
+ CON4_7_MY_USB_USBA_
+ CON5_BLKCON100VHTM1SQSW1005_AVR
+ CON5_BLKCON100VHTM1SQSW1005_BBP
+ CON5_BLKCON100VHTM1SQSW1005_FIR
+ FT232BM_2_QUAD80M32WG900_FT232B
+ LED_CYLD250LS125031_LED_
+ R_AX400X100031_1.5K_SMDRES
+ R_AX400X100031_10K_SMDRES
+ R_AX400X100031_1K_SMDRES
+ R_AX400X100031_2.2_SMDRES
+ R_AX400X100031_220_SMDRES
+ R_AX400X100031_27_SMDRES
+ R_AX400X100031_470_SMDRES
+ ZTA_RAD450X200LS300031_3.6864MH
+ ZTA_RAD450X200LS300031_6MHZ_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CPCYL1D225LS1 
+ C2                  CAPACITOR NON-POL_CPCYL1D225L_2 
+ C3                  CAPACITOR NON-POL_CPCYL1D225L_2 
+ C4                  CAPACITOR NON-POL_CPCYL1D225LS1 
+ C5                  CAPACITOR NON-POL_CPCYL1D225L_3 
+ C6                  CAPACITOR POL_CPCYL1D225LS10003 
+ C7                  CAPACITOR NON-POL_CPCYL1D225L_3 
+ C8                  CAPACITOR NON-POL_CPCYL1D225L_3 
+ C9                  CAPACITOR NON-POL_CPCYL1D225L_3 
+ C10                 CAPACITOR NON-POL_CPCYL1D225L_1 
+ D1                  LED_CYLD250LS125031_LED_ 
+ IC1                 ATMEGA8-DIL28_1_QUAD80M32WG900_ 
+ J1                  CON5_BLKCON100VHTM1SQSW1005_BBP 
+ J2                  CON4_7_MY_USB_USBA_   
+ J3                  CON5_BLKCON100VHTM1SQSW1005_AVR 
+ J4                  CON5_BLKCON100VHTM1SQSW1005_FIR 
+ R1                  R_AX400X100031_470_SMDRES 
+ R2                  R_AX400X100031_220_SMDRES 
+ R3                  R_AX400X100031_220_SMDRES 
+ R4                  R_AX400X100031_220_SMDRES 
+ R5                  R_AX400X100031_27_SMDRES 
+ R6                  R_AX400X100031_27_SMDRES 
+ R7                  R_AX400X100031_1.5K_SMDRES 
+ R8                  R_AX400X100031_2.2_SMDRES 
+ R9                  R_AX400X100031_10K_SMDRES 
+ R10                 R_AX400X100031_470_SMDRES 
+ R11                 R_AX400X100031_1K_SMDRES 
+ R12                 R_AX400X100031_220_SMDRES 
+ R13                 R_AX400X100031_1K_SMDRES 
+ R14                 R_AX400X100031_220_SMDRES 
+ R15                 R_AX400X100031_220_SMDRES 
+ U1                  FT232BM_2_QUAD80M32WG900_FT232B 
+ Y1                  ZTA_RAD450X200LS300031_3.6864MH 
+ Y2                  ZTA_RAD450X200LS300031_6MHZ_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd    |
+|                                                    Thu Jul 18 15:41:51 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ IC1.7                          PRIM_FILE      .\pstchip.dat
+ J1.5                           PRIM_FILE      .\pstchip.dat
+ J2.5                           PRIM_FILE      .\pstchip.dat
+ J3.5                           PRIM_FILE      .\pstchip.dat
+ J4.5                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ U1.28                          PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  200                                            |
+|------------------------------------------------------------------------------|

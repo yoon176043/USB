@@ -1,0 +1,100 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : avrusb500.brd                                 )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Jul 18 16:45:44 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'c:\users\user\desktop\work\orcad\usb\avrusb500_r02\allegro\allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500.brd';
+NEW_BOARD_NAME 'c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/avrusb500.brd';
+
+CmdLine: netrev.exe -5 -y 1 -i c:\users\user\desktop\work\orcad\usb\avrusb500_r02\allegro\allegro c:\users\user\desktop\work\orcad\usb\avrusb500_r02\allegro\allegro\avrusb500.brd c:\users\user\desktop\work\orcad\usb\avrusb500_r02\allegro\allegro\avrusb500.brd
+
+------ Preparing to read pst files ------
+
+Starting to read c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstchip.dat 
+   Finished reading c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstchip.dat (00:00:00.04)
+Starting to read c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstxprt.dat 
+   Finished reading c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstxnet.dat 
+   Finished reading c:/users/user/desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'JEDECMS026' for device 'FT232BM_2_QUAD80M32WG900_FT232B' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.5/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\MY_LIB\pakegesimbol\ 
+           C:\Cadence\SPB_16.5\tools\capture\My_lib\pakegesimbol\ 
+           C:\Users\user\Desktop\work\orcad\usb\avrusb500_r02\symbols\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           C:\USERS\USER\DESKTOP\WORK\PCB_LIB\PAKEGESIMBOL\ 
+           C:\Cadence\SPB_16.5\tools\capture\My_lib\pakegesimbol\ 
+           C:\Cadence\SPB_16.5\tools\capture\My_lib\padstack\ 
+           C:\Users\user\Desktop\work\orcad\usb\avrusb500_r02\symbols\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 18 16:45:44 2019
+   DESIGN NAME : 'AVRUSB500'
+   PACKAGING ON Apr 21 2011 10:02:30
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:00:32
+elapsed time  0:00:01
+

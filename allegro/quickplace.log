@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : avrusb500.brd                                 )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Thu Jul 18 17:06:29 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  IC1 / ATMEGA8-DIL28_2_QUAD80M32WG900_ / QUAD80M32WG900 at (2.9212 41.4732)
+         Placed symbol:  U1 / FT232BM_2_QUAD80M32WG900_FT232B / QUAD80M32WG900 at (14.1604 41.4732)
+         Placed symbol:  J1 / CON5_JUMPER5_BBPG_BITBANG_ / JUMPER5 at (23.9516 41.4732)
+         Placed symbol:  J4 / CON5_JUMPER5_FIRMWARE_IN_ / JUMPER5 at (36.8548 41.4732)
+         Placed symbol:  J3 / CON5_JUMPER5_AVRUSB500_OUT_ / JUMPER5 at (49.7580 41.4732)
+         Placed symbol:  J2 / CON4_7_MY_USB_USBA_ / MY_USB at (67.4912 41.2032)
+         Placed symbol:  C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031 at (75.6834 43.1622)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (81.8046 43.1622)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (87.9258 43.1622)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (94.0470 43.1622)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (100.1682 43.1622)
+         Placed symbol:  C8 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (1.8922 54.4014)
+         Placed symbol:  C9 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (8.0134 54.4014)
+         Placed symbol:  C6 / CAPACITOR POL_CPCYL1D225LS10003 / CPCYL1D225LS100031 at (14.1346 54.4014)
+         Placed symbol:  D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031 at (20.2558 54.7194)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (27.0120 54.4014)
+         Placed symbol:  R1 / R_AX400X100031_470_SMDRES / AX400X100031 at (32.4852 52.8144)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (45.5784 54.4014)
+         Placed symbol:  R11 / R_AX400X100031_1K_SMDRES / AX400X100031 at (51.0516 52.8144)
+         Placed symbol:  R13 / R_AX400X100031_1K_SMDRES / AX400X100031 at (63.4968 52.8144)
+         Placed symbol:  R12 / R_AX400X100031_220_SMDRES / AX400X100031 at (75.9420 52.8144)
+         Placed symbol:  R14 / R_AX400X100031_220_SMDRES / AX400X100031 at (88.3872 52.8144)
+         Placed symbol:  R15 / R_AX400X100031_220_SMDRES / AX400X100031 at (1.2442 59.5716)
+         Placed symbol:  R2 / R_AX400X100031_220_SMDRES / AX400X100031 at (13.6894 59.5716)
+         Placed symbol:  R3 / R_AX400X100031_220_SMDRES / AX400X100031 at (26.1346 59.5716)
+         Placed symbol:  R4 / R_AX400X100031_220_SMDRES / AX400X100031 at (38.5798 59.5716)
+         Placed symbol:  R5 / R_AX400X100031_27_SMDRES / AX400X100031 at (51.0250 59.5716)
+         Placed symbol:  R6 / R_AX400X100031_27_SMDRES / AX400X100031 at (63.4702 59.5716)
+         Placed symbol:  R7 / R_AX400X100031_1.5K_SMDRES / AX400X100031 at (75.9154 59.5716)
+         Placed symbol:  R8 / R_AX400X100031_2.2_SMDRES / AX400X100031 at (88.3606 59.5716)
+         Placed symbol:  R9 / R_AX400X100031_10K_SMDRES / AX400X100031 at (1.2442 62.5188)
+         Placed symbol:  R10 / R_AX400X100031_470_SMDRES / AX400X100031 at (13.6894 62.5188)
+         Placed symbol:  Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031 at (27.1006 63.7888)
+         Placed symbol:  Y2 / ZTA_RAD450X200LS300031_6MHZ_ / RAD450X200LS300031 at (38.9378 63.7888)
+
+
+Placed 34 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+

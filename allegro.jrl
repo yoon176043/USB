@@ -1,0 +1,17 @@
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Thu Jul 18 16:43:02 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=3292 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 635
+\i (00:00:03) trapsize 624
+\i (00:00:03) trapsize 637
+\i (00:00:04) trapsize 568
+\i (00:00:04) trapsize 1046
+\i (00:00:04) generaledit 
+\i (00:00:06) open 
+\i (00:00:08) fillin "C:\Users\user\Desktop\work\orcad\usb\avrusb500_r02\allegro\allegro\avrusb500.brd"
+\i (00:00:08) cd "C:\Users\user\Desktop\work\orcad\usb\avrusb500_r02\allegro\allegro"
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 3844
+\t (00:00:08)     Journal end - Thu Jul 18 16:43:09 2019

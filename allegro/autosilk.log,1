@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : avrusb500_3.brd                               )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Fri Jul 19 11:15:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0 degree text rotation.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '+' is not at a suitable location
+(location: 98.8480, 32.0480)
+Text string 'J3' is not at a suitable location
+(location: 54.5338, 4.6990)
+Text string '***' is not at a suitable location
+(location: 62.7888, 4.7498)
+Text string 'CON5_JUMPER5_FIRMWARE_IN_' is not at a suitable location
+(location: 34.1630, 10.9474)
+Text string '***' is not at a suitable location
+(location: 33.9852, 15.1638)
+Text string 'CON5_JUMPER5_BBPG_BITBANG_' is not at a suitable location
+(location: 6.2230, 21.7424)
+Text string '***' is not at a suitable location
+(location: 6.0452, 25.9588)
+
+Total Failures: 7
+
+Log End
+

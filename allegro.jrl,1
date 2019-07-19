@@ -1,0 +1,510 @@
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Thu Jul 18 16:24:41 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=5536 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd
+\i (00:00:03) trapsize 18887
+\i (00:00:03) trapsize 18163
+\i (00:00:03) trapsize 19013
+\i (00:00:04) trapsize 14986
+\i (00:00:04) trapsize 14986
+\i (00:00:04) generaledit 
+\i (00:00:08) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual advanced_settings  
+\i (00:00:10) FORM plc_manual library YES 
+\i (00:00:11) FORM plc_manual placement_list  
+\i (00:00:22) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:00:22) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:00:24) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:00:24) FORM plc_manual tree  R3 'Components by refdes' 
+\i (00:00:24) FORM plc_manual tree  R4 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree  R5 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree  R6 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree  R7 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree  R8 'Components by refdes' 
+\i (00:00:26) FORM plc_manual tree 'MULTISEL YES' R9 'Components by refdes' 
+\t (00:00:26) Placing R9 / R_AX400X100031_10K_SMDRES / AX400X100031 on Top.
+\i (00:00:26) FORM plc_manual tree  R9 'Components by refdes' 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) pick grid 5.4494 31.8253
+\t (00:00:30) last pick:  5.0800  33.0200
+\i (00:00:33) pick grid 22.5338 21.0352
+\t (00:00:33) last pick:  22.8600  20.3200
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 25.5311 21.9343
+\i (00:00:34) trapsize 7493
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 24.6320 20.4357
+\i (00:00:35) trapsize 3747
+\i (00:00:35) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 22.8336 19.9112
+\i (00:00:36) trapsize 7493
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 22.8336 19.7614
+\i (00:00:36) trapsize 3747
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 21.1102 18.3377
+\i (00:00:37) trapsize 7493
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 26.0557 17.4386
+\i (00:00:37) trapsize 3747
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:39) roam x -96 
+\i (00:00:39) roam x -96
+\i (00:00:39) roam x -96 
+\i (00:00:39) roam x -96
+\i (00:00:39) roam x 96 
+\i (00:00:39) roam x 96
+\i (00:00:39) roam x -96 
+\i (00:00:39) roam x -96
+\i (00:00:40) roam x 96 
+\i (00:00:40) roam x 96
+\i (00:00:56) setwindow form.plc_manual
+\i (00:00:56) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\t (00:00:56) Placing IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900 on Top.
+\i (00:00:56) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) pick grid 8.2218 13.8418
+\t (00:01:23) last pick:  7.6200  12.7000
+\i (00:01:25) pick grid 10.1701 15.0407
+\t (00:01:25) last pick:  10.1600  15.2400
+\t (00:01:25) Moving IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900.
+\t (00:01:25) last pick:  7.6200  12.7000
+\i (00:01:27) pick grid 13.8417 17.8881
+\t (00:01:27) last pick:  12.7000  17.7800
+\i (00:01:27) prepopup 12.4929 18.4126
+\i (00:01:30) pop move 
+\i (00:01:31) pick grid 14.5161 23.5829
+\t (00:01:31) last pick:  15.2400  22.8600
+\t (00:01:31) Moving IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900.
+\t (00:01:31) last pick:  12.7000  17.7800
+\i (00:01:33) pick grid 22.4589 24.1823
+\t (00:01:33) last pick:  22.8600  25.4000
+\i (00:01:36) pick grid 28.1537 28.9780
+\t (00:01:36) last pick:  27.9400  27.9400
+\t (00:01:36) Moving IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900.
+\t (00:01:36) last pick:  22.8600  25.4000
+\i (00:01:43) pick grid 24.1073 20.1360
+\t (00:01:43) last pick:  22.8600  20.3200
+\i (00:01:54) setwindow form.plc_manual
+\i (00:01:54) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:56) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:01:57) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:01:59) FORM plc_manual tree  Y1 'Components by refdes' 
+\i (00:02:00) FORM plc_manual tree 'MULTISEL YES' Y1 'Components by refdes' 
+\t (00:02:00) Placing Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031 on Top.
+\i (00:02:03) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) pick grid 8.5965 24.1823
+\t (00:02:04) last pick:  7.6200  25.4000
+\i (00:02:05) pick grid 9.5706 24.8567
+\t (00:02:05) last pick:  10.1600  25.4000
+\t (00:02:05) Moving Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031.
+\t (00:02:05) last pick:  7.6200  25.4000
+\i (00:02:06) prepopup 9.1960 24.0325
+\i (00:02:08) pick grid 5.7491 23.3581
+\t (00:02:08) last pick:  5.0800  22.8600
+\i (00:02:08) pick grid 10.8445 23.8826
+\t (00:02:08) last pick:  10.1600  22.8600
+\t (00:02:08) Moving Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031.
+\t (00:02:08) last pick:  5.0800  22.8600
+\i (00:02:10) prepopup 7.9221 23.5080
+\i (00:02:10) rotate 
+\t (00:02:10) Spin the element(s).
+\i (00:02:11) iangle 0.000
+\t (00:02:11) last angle:  +0.000 Degrees
+\e (00:02:13) Command not found: eerrrr
+\i (00:02:13) iangle 90 
+\t (00:02:13) last pick:  9.0000  0.0000
+\i (00:02:15) iangle 90 
+\t (00:02:15) last pick:  9.0000  0.0000
+\i (00:02:15) iangle 90 
+\t (00:02:15) last pick:  9.0000  0.0000
+\i (00:02:17) iangle 90 
+\t (00:02:17) last pick:  9.0000  0.0000
+\i (00:02:20) pick grid 6.6483 23.8077
+\t (00:02:20) last pick:  7.6200  22.8600
+\i (00:02:24) setwindow form.plc_manual
+\i (00:02:24) FORM plc_manual tree  'Components by refdes' 
+\i (00:02:26) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:02:26) FORM plc_manual tree  C7 'Components by refdes' 
+\i (00:02:29) FORM plc_manual tree 'MULTISEL YES' C7 'Components by refdes' 
+\t (00:02:29) Placing C7 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 on Top.
+\i (00:02:32) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) pick grid 9.9453 26.8799
+\t (00:02:35) last pick:  10.1600  27.9400
+\i (00:02:36) pick grid 11.2191 22.9085
+\t (00:02:36) last pick:  10.1600  22.8600
+\t (00:02:36) Moving Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031.
+\t (00:02:36) last pick:  7.6200  22.8600
+\i (00:02:37) pick grid 8.8213 18.7123
+\t (00:02:37) last pick:  7.6200  17.7800
+\i (00:02:38) pick grid 11.5938 27.3295
+\t (00:02:38) last pick:  12.7000  27.9400
+\t (00:02:38) Moving C7 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031.
+\t (00:02:38) last pick:  10.1600  27.9400
+\i (00:02:39) pick grid 11.2191 26.5802
+\t (00:02:39) last pick:  10.1600  25.4000
+\i (00:02:42) setwindow form.plc_manual
+\i (00:02:42) FORM plc_manual tree 'MULTISEL YES' C8 'Components by refdes' 
+\t (00:02:42) Placing C8 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 on Top.
+\i (00:02:42) FORM plc_manual tree  C8 'Components by refdes' 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) pick grid 11.3690 11.1442
+\t (00:02:45) last pick:  10.1600  10.1600
+\i (00:02:46) iangle 90 
+\e (00:02:46) angle command is not allowed in this mode.
+\i (00:02:56) setwindow form.plc_manual
+\i (00:02:56) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:02:58) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (00:02:58) Placing D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031 on Top.
+\i (00:03:02) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) pick grid 36.7708 25.5311
+\t (00:03:10) last pick:  35.5600  25.4000
+\i (00:03:11) iangle 90 
+\e (00:03:11) angle command is not allowed in this mode.
+\i (00:03:11) prepopup 37.5201 25.3063
+\i (00:03:12) prepopup 36.6209 26.1306
+\i (00:03:15) pick grid 36.5460 27.7791
+\t (00:03:15) last pick:  35.5600  27.9400
+\t (00:03:15) Moving D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031.
+\t (00:03:15) last pick:  35.5600  25.4000
+\i (00:03:17) pick grid 36.7708 25.7559
+\t (00:03:17) last pick:  35.5600  25.4000
+\i (00:03:20) pick grid 38.7190 26.4303
+\t (00:03:20) last pick:  38.1000  25.4000
+\t (00:03:20) Moving D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031.
+\t (00:03:20) last pick:  35.5600  25.4000
+\i (00:03:23) pick grid 36.2463 31.8254
+\t (00:03:23) last pick:  35.5600  33.0200
+\i (00:03:28) setwindow form.plc_manual
+\i (00:03:28) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:03:33) FORM plc_manual tree 'MULTISEL YES' R10 'Components by refdes' 
+\t (00:03:33) Placing R10 / R_AX400X100031_470_SMDRES / AX400X100031 on Top.
+\i (00:03:33) FORM plc_manual tree  R10 'Components by refdes' 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) pick grid 36.7708 26.2804
+\t (00:03:37) last pick:  35.5600  25.4000
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 61.1985 20.2110
+\i (00:03:38) trapsize 7493
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 69.4410 20.0611
+\i (00:03:39) trapsize 14986
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 193.3779 86.3755
+\i (00:03:39) trapsize 7493
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 193.5278 86.6753
+\i (00:03:39) trapsize 3747
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 193.3779 86.4506
+\i (00:03:39) trapsize 7493
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 185.8848 81.3552
+\i (00:03:39) trapsize 14986
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 158.3100 74.4614
+\i (00:03:39) trapsize 7493
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 134.7815 67.5677
+\i (00:03:39) trapsize 3747
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 125.8646 63.4465
+\i (00:03:39) trapsize 1873
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 125.6773 63.2591
+\i (00:03:40) trapsize 3747
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 125.0029 62.4349
+\i (00:03:40) trapsize 1873
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 124.4784 62.3600
+\i (00:03:40) trapsize 937
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 124.0288 62.0416
+\i (00:03:40) trapsize 1873
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 123.9164 61.7418
+\i (00:03:40) trapsize 3747
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 123.8415 61.4421
+\i (00:03:40) trapsize 7493
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 123.8415 60.9926
+\i (00:03:40) trapsize 14986
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 123.2421 60.0934
+\i (00:03:40) trapsize 31368
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 159.5358 102.4467
+\i (00:03:40) trapsize 31368
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 156.3990 97.4279
+\i (00:03:40) trapsize 31368
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 7.0891 -6.7127
+\i (00:03:41) trapsize 15684
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 7.0891 -6.7126
+\i (00:03:41) trapsize 7842
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 7.7165 -1.8506
+\i (00:03:41) trapsize 3921
+\i (00:03:47) setwindow form.plc_manual
+\i (00:03:47) FORM plc_manual tree 'MULTISEL YES' R11 'Components by refdes' 
+\t (00:03:47) Placing R11 / R_AX400X100031_1K_SMDRES / AX400X100031 on Top.
+\i (00:03:47) FORM plc_manual tree  R11 'Components by refdes' 
+\i (00:03:47) FORM plc_manual tree 'MULTISEL YES' R12 'Components by refdes' 
+\i (00:03:47) FORM plc_manual tree  R12 'Components by refdes' 
+\i (00:03:48) FORM plc_manual tree 'MULTISEL YES' R13 'Components by refdes' 
+\i (00:03:48) FORM plc_manual tree  R13 'Components by refdes' 
+\i (00:03:51) FORM plc_manual tree 'MULTISEL YES' R14 'Components by refdes' 
+\i (00:03:51) FORM plc_manual tree  R14 'Components by refdes' 
+\i (00:03:53) FORM plc_manual tree 'MULTISEL YES' R15 'Components by refdes' 
+\i (00:03:53) FORM plc_manual tree  R15 'Components by refdes' 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) pick grid 35.6337 21.5183
+\t (00:04:01) last pick:  35.5600  20.3200
+\t (00:04:01) Placing R12 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:02) pick grid 35.8690 16.4995
+\t (00:04:02) last pick:  35.5600  15.2400
+\t (00:04:02) Placing R13 / R_AX400X100031_1K_SMDRES / AX400X100031 on Top.
+\i (00:04:06) pick grid 34.7711 11.4022
+\t (00:04:06) last pick:  35.5600  10.1600
+\t (00:04:06) Placing R14 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:14) pick grid 35.3200 6.3050
+\t (00:04:14) last pick:  35.5600  5.0800
+\t (00:04:14) Placing R15 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:20) setwindow form.plc_manual
+\i (00:04:20) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:04:22) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:04:22) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:04:28) FORM plc_manual advanced_settings  
+\i (00:04:28) FORM plc_manual placement_list  
+\i (00:04:34) FORM plc_manual qvpropwnd '   No preview   text available' 
+\i (00:04:34) FORM plc_manual tree 'MULTISEL NO' J1 'Components by refdes' 
+\t (00:04:34) Placing R15 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:34) FORM plc_manual qvpropwnd 'Name: AX400X100031Type: Symbol DefinitionUnits:         MillimetersAccuracy:   4Pins: 2' 
+\i (00:04:35) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\e (00:04:35) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:04:35) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:04:36) FORM plc_manual tree 'MULTISEL NO' J4 'Components by refdes' 
+\t (00:04:36) Placing R15 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:53) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\e (00:04:53) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:04:55) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:04:56) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:04:56) FORM plc_manual tree 'MULTISEL NO' J4 'Components by refdes' 
+\t (00:04:56) Placing R15 / R_AX400X100031_220_SMDRES / AX400X100031 on Top.
+\i (00:04:59) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\e (00:04:59) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:05:02) FORM plc_manual advanced_settings  
+\i (00:05:03) FORM plc_manual cancel  
+\i (00:05:03) setwindow pcb
+\i (00:05:03) generaledit 
+\i (00:05:38) cns show 
+\i (00:05:45) save 
+\i (00:05:46) fillin yes 
+\i (00:05:46) generaledit 
+\i (00:05:51) cmgr 
+\i (00:05:52) setwindow cmgr
+\i (00:05:52) cm fetch DRC_IS_UPTODATE ( System "System" ) System
+\i (00:05:52) cm fetch ONLINE_DRC ( System "System" ) System
+\i (00:05:52) setwindow pcb
+\i (00:05:52) generaledit 
+\i (00:06:01) setwindow cmgr
+\i (00:06:01) cm newView ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:06:02) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_LINE_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_THRUPIN_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_SMDPIN_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_TESTPIN_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_THRUVIA_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch BBV_TO_LINE_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_TESTVIA_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch LINE_TO_SHAPE_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch BONDPAD_TO_LINE_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:02) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500" ) Design
+\i (00:06:02) cm fetch HOLE_TO_LINE_SPACING ( Design "avrusb500" ) "Spacing CSet"
+\i (00:06:17) cm scope Design "avrusb500"
+\i (00:06:17) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_TO_LINE_SPACING 0.253 7
+\i (00:06:17) cm endUndoBlock
+\i (00:06:24) cm exit
+\i (00:06:40) setwindow pcb
+\i (00:06:40) drc update 
+\t (00:06:40) Performing DRC...
+\t (00:06:40) Multithreaded DRC update (4 threads).
+\t (00:06:40) No DRC errors detected.
+\i (00:06:40) generaledit 
+\i (00:07:01) place manual 
+\i (00:07:02) setwindow form.plc_manual
+\i (00:07:02) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:07:02) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:07:02) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:07:03) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:07:03) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:07:03) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\i (00:07:03) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:07:04) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:07:04) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\i (00:07:05) FORM plc_manual tree 'MULTISEL NO' J1 'Components by refdes' 
+\t (00:07:05) Placing J2 / CON4_7_MY_USB_USBA_ / MY_USB on Top.
+\i (00:07:05) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:07:05) FORM plc_manual tree 'MULTISEL NO' J2 'Components by refdes' 
+\e (00:07:05) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:07:05) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree 'MULTISEL NO' J3 'Components by refdes' 
+\e (00:07:06) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:07:06) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree 'MULTISEL NO' J4 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:07:09) FORM plc_manual categories Package symbols 
+\i (00:07:10) FORM plc_manual categories Mechanical symbols 
+\i (00:07:12) FORM plc_manual advanced_settings  
+\i (00:07:13) FORM plc_manual library YES 
+\i (00:07:13) FORM plc_manual placement_list  
+\i (00:07:14) FORM plc_manual tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (00:07:14) FORM plc_manual tree  'Mechanical symbols' 
+\i (00:07:16) FORM plc_manual tree 'MULTISEL NO' 'Mechanical symbols' 
+\i (00:07:19) FORM plc_manual categories Package symbols 
+\i (00:07:20) FORM plc_manual tree  'Package symbols' 
+\i (00:07:31) FORM plc_manual tree  SOIC20W 'Package symbols' 
+\i (00:07:32) FORM plc_manual tree  JEDEC_MS-026 'Package symbols' 
+\i (00:07:34) FORM plc_manual tree  JUMPER5 'Package symbols' 
+\i (00:07:36) FORM plc_manual tree 'MULTISEL YES' JUMPER5 'Package symbols' 
+\i (00:07:48) FORM plc_manual cancel  
+\i (00:07:48) setwindow pcb
+\i (00:07:48) generaledit 
+\i (00:07:51) exit 
+\e (00:07:51) Do you want to save the changes you made to C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd?
+\i (00:07:53) fillin menu_cancel 
+\i (00:07:53) generaledit 
+\i (00:07:56) save 
+\i (00:07:57) fillin yes 
+\i (00:07:57) generaledit 
+\i (00:09:55) place manual 
+\i (00:09:57) setwindow form.plc_manual
+\i (00:09:57) FORM plc_manual advanced_settings  
+\i (00:09:58) FORM plc_manual library YES 
+\i (00:09:58) FORM plc_manual placement_list  
+\i (00:10:01) FORM plc_manual categories Components by refdes 
+\i (00:10:03) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:10:03) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:10:03) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:10:05) FORM plc_manual cancel  
+\i (00:10:06) setwindow pcb
+\i (00:10:06) generaledit 
+\i (00:10:08) open 
+\i (00:10:15) fillin "avrusb500.brd"
+\t (00:10:15) Opening existing design...
+\i (00:10:15) trapsize 3921
+\d (00:10:15) Database opened: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd
+\i (00:10:15) generaledit 
+\i (00:10:17) trapsize 2011
+\i (00:10:19) open 
+\i (00:10:22) fillin "avrusb500.brd"
+\t (00:10:22) Opening existing design...
+\i (00:10:22) trapsize 3844
+\d (00:10:22) Database opened: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd
+\i (00:10:22) generaledit 
+\i (00:10:26) place manual 
+\i (00:10:27) setwindow form.plc_manual
+\i (00:10:27) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:10:27) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:10:27) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:10:28) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:10:28) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:10:29) FORM plc_manual cancel  
+\i (00:10:29) setwindow pcb
+\i (00:10:29) generaledit 
+\i (00:11:22) pick grid 34.3995 19.4434
+\t (00:11:22) last pick:  34.2900  19.6850
+\i (00:11:25) place manual 
+\i (00:11:27) setwindow form.plc_manual
+\i (00:11:27) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:11:27) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:11:27) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:11:27) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:11:27) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:11:28) FORM plc_manual advanced_settings  
+\i (00:11:29) FORM plc_manual library YES 
+\e (00:11:29) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\e (00:11:29) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:11:29) FORM plc_manual placement_list  
+\i (00:11:31) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:11:31) Cannot load symbol 'BLKCON100VHTM1SQSW1005'
+\i (00:11:31) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\i (00:11:32) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:11:34) FORM plc_manual cancel  
+\i (00:11:34) setwindow pcb
+\i (00:11:34) generaledit 
+\i (00:11:40) pick grid 63.5355 2.9920
+\t (00:11:40) last pick:  63.5000  3.1750
+\i (00:11:51) pick grid 52.3885 28.4379
+\t (00:11:51) last pick:  52.7050  28.5750
+\i (00:12:15) filemgr 
+\i (00:14:11) enved 
+\i (00:14:12) generaledit 
+\i (00:14:15) setwindow form.prfedit
+\i (00:14:15) FORM prfedit treelist  Library Paths 
+\i (00:14:19) FORM prfedit psmpath  
+\i (00:14:34) FORM prfedit padpath  
+\i (00:14:47) FORM prfedit cancel  
+\i (00:14:51) setwindow pcb
+\i (00:14:51) open 
+\i (00:16:11) fillin "avrusb500.brd"
+\t (00:16:11) Opening existing design...
+\i (00:16:11) trapsize 3844
+\d (00:16:12) Database opened: C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/avrusb500.brd
+\i (00:16:12) generaledit 
+\i (00:16:15) exit 
+\t (00:16:16)     Journal end - Thu Jul 18 16:40:55 2019

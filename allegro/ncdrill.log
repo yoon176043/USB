@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa01728.tmp                             )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Fri Jul 19 13:52:35 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING: Switching units system when generating drill output file data.
+ WARNING: This design contains 4 slot holes that can NOT be drilled.
+          They can be processed by NC routing instead.
+
+
+
+ Drill files being output to directory 'C:/Users/user/Desktop/work/orcad/usb/avrusb500_r02/allegro/allegro/gerber' ...
+
+
+
+     'avrusb500_3-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED         30
+            2.  30.9803    0.0000/  0.0000      PLATED         56
+            3.  36.0000    0.0000/  0.0000      PLATED         15
+
+     ---- Total holes:                                        101
+
+     ---- Total head travel:              6.78 feet (2.07 meters)
+
